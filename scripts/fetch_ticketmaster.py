@@ -23,6 +23,10 @@ MONTHS_AHEAD = 18
 PAGE_SIZE = 200
 MAX_DEEP = 1000  # Discovery API refuses size*page beyond this
 SITES = [DATA, DATA / "electronic"]
+# Words common in event titles; a name made only of these ("My Friend", "&friends", "R Plus")
+# is too generic to find inside a title.
+TITLE_WORDS = set("""a all and at b2b club day dj feat friend friends ft his her in live my night of on
+our party plus presents r show special the tour vs with x you your""".split())
 
 
 def norm(s):
@@ -73,8 +77,9 @@ def events_between(key, start, end):
 def match(site, events):
     artists = json.loads((site / "artists.json").read_text())
     by_norm = {norm(a["name"]): a for a in artists}
-    # Event-title matching is only safe for multi-word names; "Seven" or "Red" would match everything.
-    title_matchable = {n: a for n, a in by_norm.items() if len(n.split()) >= 2}
+    # Event-title matching is only safe for distinctive multi-word names; "Seven" or "Red" would match everything.
+    title_matchable = {n: a for n, a in by_norm.items()
+                       if len(n.split()) >= 2 and not set(n.split()) <= TITLE_WORDS}
 
     shows = []
     for ev in events:
