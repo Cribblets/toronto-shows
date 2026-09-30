@@ -1,5 +1,405 @@
 {
- "updated": null,
+ "updated": "2026-09-30T19:19:51+00:00",
  "artist_count": 432,
- "shows": []
+ "shows": [
+  {
+   "id": "tm-16vZZ_ajAG7nMij",
+   "title": "Bring Me The Horizon - POST HUMAN: NeX GEn-THE THIRD ASCENSION PROGRAM",
+   "artists": [
+    "Motionless In White"
+   ],
+   "lineup": [
+    "Bring Me The Horizon",
+    "Motionless In White",
+    "The Plot In You"
+   ],
+   "date": "2026-10-03",
+   "time": "19:00:00",
+   "status": "onsale",
+   "venue": "TD Coliseum",
+   "city": "Hamilton",
+   "url": "https://www.ticketmaster.ca/bring-me-the-horizon-post-human-hamilton-ontario-10-03-2026/event/1000649705AB7B1C",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-rZ7HnEZ1A4ZY0N",
+   "title": "He Is Legend - The Time Travel Tour",
+   "artists": [
+    "He Is Legend"
+   ],
+   "lineup": [
+    "He Is Legend"
+   ],
+   "date": "2026-10-15",
+   "time": "19:00:00",
+   "status": "onsale",
+   "venue": "Lee's Palace",
+   "city": "Toronto",
+   "url": "https://www.ticketweb.ca/event/he-is-legend-lees-palace-tickets/15030923",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-177Zv0G65rcNeqk",
+   "title": "Plini - An Unnameable Desire North American Tour",
+   "artists": [
+    "Plini"
+   ],
+   "lineup": [
+    "Plini",
+    "Night Verses",
+    "Portraits"
+   ],
+   "date": "2026-10-22",
+   "time": "18:00:00",
+   "status": "onsale",
+   "venue": "The Danforth Music Hall",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/plini-an-unnameable-desire-north-american-toronto-ontario-10-22-2026/event/100064B7AD8C2746",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-rZ7HnEZ1Afxdod",
+   "title": "Icon For Hire, Elijah, Lauren Babic",
+   "artists": [
+    "Icon For Hire"
+   ],
+   "lineup": [
+    "Icon for Hire",
+    "Lauren Babic"
+   ],
+   "date": "2026-10-22",
+   "time": "19:00:00",
+   "status": "onsale",
+   "venue": "Lee's Palace",
+   "city": "Toronto",
+   "url": "https://www.ticketweb.ca/event/icon-for-hire-elijah-lauren-lees-palace-tickets/14883443",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-177Zv0G658v1VzJ",
+   "title": "Periphery - A Pale White Dot Tour",
+   "artists": [
+    "Periphery"
+   ],
+   "lineup": [
+    "Periphery",
+    "Ne Obliviscaris",
+    "Greyhaven",
+    "Ando San"
+   ],
+   "date": "2026-10-26",
+   "time": "17:30:00",
+   "status": "onsale",
+   "venue": "History Toronto",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/periphery-a-pale-white-dot-tour-toronto-ontario-10-26-2026/event/100064B4012B4E26",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-177Zv0G65C0syHf",
+   "title": "SiM - HOOMAN WORLD TOUR",
+   "artists": [
+    "SiM"
+   ],
+   "lineup": [
+    "SiM",
+    "Zero 9:36",
+    "aurorawave"
+   ],
+   "date": "2026-10-30",
+   "time": "18:30:00",
+   "status": "onsale",
+   "venue": "The Danforth Music Hall",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/sim-hooman-world-tour-toronto-ontario-10-30-2026/event/100064B3A4C79F14",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-177Zv0G61TuXH0k",
+   "title": "Arch Enemy & The Black Dahlia Murder - Wrath Across North America 2026",
+   "artists": [
+    "Arch Enemy"
+   ],
+   "lineup": [
+    "Arch Enemy",
+    "The Black Dahlia Murder",
+    "Septicflesh",
+    "Crypta",
+    "Thrown Into Exile"
+   ],
+   "date": "2026-11-01",
+   "time": "17:00:00",
+   "status": "onsale",
+   "venue": "The Danforth Music Hall",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/arch-enemy-the-black-dahlia-murder-toronto-ontario-11-01-2026/event/100064AFCDFBC906",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-177Zv0G6GwdVb1R",
+   "title": "Sleeping With Sirens: An Ending In Itself Tour",
+   "artists": [
+    "Rain City Drive"
+   ],
+   "lineup": [
+    "Sleeping With Sirens",
+    "Rain City Drive",
+    "Shyeye"
+   ],
+   "date": "2026-11-01",
+   "time": "18:00:00",
+   "status": "onsale",
+   "venue": "History Toronto",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/sleeping-with-sirens-an-ending-in-toronto-ontario-11-01-2026/event/100064CC83D182AF",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-rZ7HnEZ1A4Zbjd",
+   "title": "Halocene",
+   "artists": [
+    "Halocene"
+   ],
+   "lineup": [
+    "Halocene"
+   ],
+   "date": "2026-11-07",
+   "time": "20:00:00",
+   "status": "offsale",
+   "venue": "The Cave ",
+   "city": "Toronto",
+   "url": "https://www.ticketweb.ca/event/halocene-the-cave-tickets/15018703",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-177Zv0G6G2_Ekqb",
+   "title": "WAGE WAR - EMERGENCY BROADCAST TOUR",
+   "artists": [
+    "Wage War",
+    "We Came As Romans"
+   ],
+   "lineup": [
+    "Wage War",
+    "We Came As Romans",
+    "Varials",
+    "Cane Hill"
+   ],
+   "date": "2026-11-16",
+   "time": "18:00:00",
+   "status": "onsale",
+   "venue": "History Toronto",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/wage-war-emergency-broadcast-tour-toronto-ontario-11-16-2026/event/100064C3D99C6758",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-177Zv0G62er1Iat",
+   "title": "TRIVIUM: CROWN IN THE GRAVE WORLD TOUR",
+   "artists": [
+    "In Flames"
+   ],
+   "lineup": [
+    "Trivium",
+    "In Flames",
+    "Fit for an Autopsy",
+    "Frozen Soul"
+   ],
+   "date": "2026-11-18",
+   "time": "18:30:00",
+   "status": "onsale",
+   "venue": "The Theatre at Great Canadian Toronto",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/trivium-crown-in-the-grave-world-toronto-ontario-11-18-2026/event/100064F09E2A8269",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-177Zv0G65l9L0CA",
+   "title": "Catch Your Breath - Not Broken Enough Tour",
+   "artists": [
+    "Catch Your Breath"
+   ],
+   "lineup": [
+    "Catch Your Breath",
+    "TX2",
+    "Arankai",
+    "Colorblind"
+   ],
+   "date": "2026-11-19",
+   "time": "18:00:00",
+   "status": "onsale",
+   "venue": "The Danforth Music Hall",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/catch-your-breath-not-broken-enough-toronto-ontario-11-19-2026/event/100064BAD77E4385",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1AvZZ_8GkBlKihc",
+   "title": "Underoath - Define the Great Line 20th Anniversary Tour",
+   "artists": [
+    "Underoath"
+   ],
+   "lineup": [
+    "Underoath",
+    "August Burns Red",
+    "Atreyu",
+    "Emery"
+   ],
+   "date": "2026-11-27",
+   "time": "18:30:00",
+   "status": "onsale",
+   "venue": "The Theatre at Great Canadian Toronto",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/underoath-define-the-great-line-20th-toronto-ontario-11-27-2026/event/1000650EAB4EC6ED",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-rZ7HnEZ1AfxapK",
+   "title": "Kingdom of Giants",
+   "artists": [
+    "Deadlands",
+    "Kingdom Of Giants"
+   ],
+   "lineup": [
+    "Kingdom of Giants",
+    "Deadlands"
+   ],
+   "date": "2026-11-28",
+   "time": "20:30:00",
+   "status": "onsale",
+   "venue": "Lee's Palace",
+   "city": "Toronto",
+   "url": "https://www.ticketweb.ca/event/kingdom-of-giants-lees-palace-tickets/14889593",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-177Zv0G6GUpf56r",
+   "title": "Imminence - Axis Mundi Tour: North America 2026",
+   "artists": [
+    "Imminence"
+   ],
+   "lineup": [
+    "Imminence",
+    "Dying Wish",
+    "Gaerea"
+   ],
+   "date": "2026-12-11",
+   "time": "18:00:00",
+   "status": "onsale",
+   "venue": "History Toronto",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/imminence-axis-mundi-tour-north-america-toronto-ontario-12-11-2026/event/100064CD9650B1DE",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-rZ7HnEZ1Af18o7",
+   "title": "SULLIVAN KING",
+   "artists": [
+    "Sullivan King"
+   ],
+   "lineup": [
+    "Sullivan King"
+   ],
+   "date": "2026-12-11",
+   "time": "22:00:00",
+   "status": "onsale",
+   "venue": "REBEL",
+   "city": "Toronto",
+   "url": "https://www.ticketweb.ca/event/sullivan-king-rebel-tickets/14290444",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-177Zv0G6uerJQxb",
+   "title": "Senses Fail Presents Still Searching",
+   "artists": [
+    "Senses Fail"
+   ],
+   "lineup": [
+    "Senses Fail",
+    "Koyo",
+    "Initiate"
+   ],
+   "date": "2026-12-12",
+   "time": "18:00:00",
+   "status": "onsale",
+   "venue": "The Opera House",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/senses-fail-presents-still-searching-toronto-ontario-12-12-2026/event/100064D09E99A898",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-rZ7HnEZ1AfJ_fN",
+   "title": "ABYSS NORTH AMERICA TOUR - ANNISOKAY",
+   "artists": [
+    "Annisokay"
+   ],
+   "lineup": [
+    "Annisokay"
+   ],
+   "date": "2027-01-16",
+   "time": "19:30:00",
+   "status": "onsale",
+   "venue": "The Garrison",
+   "city": "Toronto",
+   "url": "https://www.ticketweb.ca/event/abyss-north-america-tour-the-garrison-tickets/14999523",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-177Zv0G6GmyX7u7",
+   "title": "Polyphia: BE NOT AFRAID World Tour ",
+   "artists": [
+    "Intervals"
+   ],
+   "lineup": [
+    "Polyphia",
+    "Intervals",
+    "Ladrones",
+    "RJ Pasin"
+   ],
+   "date": "2027-03-02",
+   "time": "18:30:00",
+   "status": "rescheduled",
+   "venue": "The Theatre at Great Canadian Toronto",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/polyphia-be-not-afraid-world-tour-toronto-ontario-03-02-2027/event/100064CBB9F84344",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8ZkfsGkdNKE_C",
+   "title": "Northlane: THE ANEMOIA TOUR",
+   "artists": [
+    "Northlane"
+   ],
+   "lineup": [
+    "Northlane",
+    "Aviana",
+    "ALLT",
+    "Reliqa"
+   ],
+   "date": "2027-03-03",
+   "time": "18:00:00",
+   "status": "offsale",
+   "venue": "The Danforth Music Hall",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/northlane-the-anemoia-tour-toronto-ontario-03-03-2027/event/10006531E34E764E",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1AvZZ_3GklTRH3z",
+   "title": "The Warning - Everything's Falling World Tour",
+   "artists": [
+    "The Warning"
+   ],
+   "lineup": [
+    "The Warning",
+    "wilt"
+   ],
+   "date": "2027-05-11",
+   "time": "19:00:00",
+   "status": "onsale",
+   "venue": "History Toronto",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/the-warning-everythings-falling-world-tour-toronto-ontario-05-11-2027/event/1000652AFFBFC4B8",
+   "source": "ticketmaster"
+  }
+ ]
 }
