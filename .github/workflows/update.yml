@@ -1,0 +1,31 @@
+name: Weekly show update
+
+on:
+  schedule:
+    - cron: "0 10 * * 1"  # Mondays 10:00 UTC (6am Toronto)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Refresh playlist artists
+        run: python scripts/fetch_artists.py
+      - name: Find Toronto shows on Ticketmaster
+        env:
+          TM_API_KEY: ${{ secrets.TM_API_KEY }}
+        run: python scripts/fetch_ticketmaster.py
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Weekly show update $(date -u +%F)"
+          git push
