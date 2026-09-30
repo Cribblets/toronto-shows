@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Toronto Heavy Shows</title>
+<meta name="description" content="Upcoming Toronto concerts from bands on the I Like It Hard playlist, updated weekly.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤘</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #f4f1ec; --surface: #ffffff; --ink: #16130f; --muted: #6b645b; --line: #e2dcd2;
+    --accent: #c8221b; --accent-ink: #ffffff; --chip: #ece6dc; --warn: #a15c00;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #0e0d0c; --surface: #181614; --ink: #f1ece4; --muted: #9a9187; --line: #2a2723;
+      --accent: #ff3b30; --accent-ink: #0e0d0c; --chip: #24211e; --warn: #f0a93b;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #0e0d0c; --surface: #181614; --ink: #f1ece4; --muted: #9a9187; --line: #2a2723;
+    --accent: #ff3b30; --accent-ink: #0e0d0c; --chip: #24211e; --warn: #f0a93b;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.5 Inter, system-ui, sans-serif; }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 40px 16px 80px; }
+  header h1 { font-family: Anton, Impact, sans-serif; font-weight: 400; font-size: clamp(44px, 10vw, 84px);
+    line-height: .92; letter-spacing: .01em; text-transform: uppercase; margin: 0 0 14px; }
+  header h1 span { color: var(--accent); }
+  .sub { color: var(--muted); margin: 0 0 28px; max-width: 60ch; }
+  .sub a { color: inherit; }
+  .stats { display: flex; gap: 28px; flex-wrap: wrap; margin-bottom: 28px; }
+  .stat b { display: block; font-family: Anton, Impact, sans-serif; font-weight: 400; font-size: 32px; line-height: 1; }
+  .stat small { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .08em; }
+  .controls { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; position: sticky; top: 0;
+    background: var(--bg); padding: 12px 0; z-index: 2; border-bottom: 1px solid var(--line); }
+  input[type=search] { flex: 1 1 220px; min-width: 0; padding: 10px 14px; border-radius: 10px; border: 1px solid var(--line);
+    background: var(--surface); color: var(--ink); font: inherit; }
+  .chips { display: flex; gap: 6px; flex-wrap: wrap; }
+  .chip { border: 0; background: var(--chip); color: var(--ink); padding: 8px 12px; border-radius: 999px; font: 500 13px Inter, sans-serif; cursor: pointer; }
+  .chip[aria-pressed=true] { background: var(--ink); color: var(--bg); }
+  h2.month { font-family: Anton, Impact, sans-serif; font-weight: 400; text-transform: uppercase; letter-spacing: .04em;
+    font-size: 22px; margin: 36px 0 12px; color: var(--muted); }
+  .show { display: grid; grid-template-columns: 64px 1fr auto; gap: 16px; align-items: center; background: var(--surface);
+    border: 1px solid var(--line); border-radius: 14px; padding: 14px 16px; margin-bottom: 10px; }
+  .date { text-align: center; line-height: 1; }
+  .date .dow { font-size: 11px; text-transform: uppercase; letter-spacing: .1em; color: var(--muted); }
+  .date .day { font-family: Anton, Impact, sans-serif; font-size: 34px; display: block; margin: 4px 0 2px; }
+  .date .mon { font-size: 11px; text-transform: uppercase; letter-spacing: .1em; color: var(--accent); font-weight: 600; }
+  .info { min-width: 0; }
+  .artists { font-weight: 600; font-size: 17px; margin: 0; }
+  .title { color: var(--muted); font-size: 13px; margin: 2px 0 6px; overflow-wrap: anywhere; }
+  .meta { display: flex; gap: 6px 14px; flex-wrap: wrap; font-size: 13px; color: var(--muted); }
+  .tag { font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 999px; background: var(--chip); color: var(--ink); }
+  .tag.warn { color: var(--warn); }
+  .tickets { background: var(--accent); color: var(--accent-ink); text-decoration: none; font-weight: 600; font-size: 13px;
+    padding: 9px 14px; border-radius: 10px; white-space: nowrap; }
+  .empty { color: var(--muted); padding: 48px 0; text-align: center; }
+  footer { margin-top: 56px; color: var(--muted); font-size: 12px; }
+  footer a { color: inherit; }
+  @media (max-width: 560px) {
+    .show { grid-template-columns: 52px 1fr; }
+    .tickets { grid-column: 2; justify-self: start; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Toronto<br><span>Heavy</span> Shows</h1>
+    <p class="sub">Upcoming Toronto-area gigs from bands on <a href="https://open.spotify.com/playlist/0xHA2e6A8i3uZiwBpTwujr" target="_blank" rel="noopener">I Like It Hard</a>. Refreshed every Monday from Ticketmaster plus a sweep of indie venue calendars.</p>
+    <div class="stats">
+      <div class="stat"><b id="s-shows">–</b><small>Upcoming shows</small></div>
+      <div class="stat"><b id="s-artists">–</b><small>Artists tracked</small></div>
+      <div class="stat"><b id="s-updated">–</b><small>Last updated</small></div>
+    </div>
+  </header>
+  <div class="controls">
+    <input type="search" id="q" placeholder="Search band or venue…" aria-label="Search band or venue">
+    <div class="chips" role="group" aria-label="Source">
+      <button class="chip" data-src="all" aria-pressed="true">All</button>
+      <button class="chip" data-src="ticketmaster" aria-pressed="false">Ticketmaster</button>
+      <button class="chip" data-src="claude" aria-pressed="false">Indie venues</button>
+    </div>
+  </div>
+  <main id="list"><p class="empty">Loading…</p></main>
+  <footer>Matched by artist name, so a same-named band can occasionally sneak in. Data: <a href="data/shows.json">shows.json</a> · <a href="data/claude_shows.json">claude_shows.json</a> · <a href="data/artists.json">artists.json</a></footer>
+</div>
+<script>
+const $ = s => document.querySelector(s);
+let shows = [], trackCounts = {}, src = 'all';
+
+const fetchJSON = p => fetch(p, { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).catch(() => null);
+const key = s => s.artists.map(a => a.toLowerCase()).sort().join('|') + '@' + s.date;
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+
+async function load() {
+  const [tm, claude, artists] = await Promise.all([
+    fetchJSON('data/shows.json'), fetchJSON('data/claude_shows.json'), fetchJSON('data/artists.json')]);
+  (artists || []).forEach(a => trackCounts[a.name] = a.tracks);
+  const today = new Date().toLocaleDateString('en-CA', { timeZone: 'America/Toronto' });
+  const merged = new Map();
+  // Ticketmaster first so it wins over an indie-calendar duplicate of the same gig
+  for (const s of [...(tm?.shows || []), ...(Array.isArray(claude) ? claude : [])]) {
+    if (!s.date || s.date < today || !s.artists?.length) continue;
+    if (!merged.has(key(s))) merged.set(key(s), s);
+  }
+  shows = [...merged.values()].sort((a, b) => (a.date + (a.time || '')).localeCompare(b.date + (b.time || '')));
+
+  $('#s-shows').textContent = shows.length;
+  $('#s-artists').textContent = tm?.artist_count ?? (artists || []).length;
+  $('#s-updated').textContent = tm?.updated
+    ? new Date(tm.updated).toLocaleDateString('en-CA', { month: 'short', day: 'numeric' }) : 'Pending';
+  render();
+}
+
+function render() {
+  const q = $('#q').value.trim().toLowerCase();
+  const list = shows.filter(s => (src === 'all' || s.source === src) &&
+    (!q || [s.title, s.venue, ...s.artists, ...(s.lineup || [])].join(' ').toLowerCase().includes(q)));
+  if (!list.length) {
+    $('#list').innerHTML = `<p class="empty">${shows.length ? 'Nothing matches that filter.' : 'No upcoming shows found yet. Check back after Monday’s update.'}</p>`;
+    return;
+  }
+  let html = '', month = '';
+  for (const s of list) {
+    const d = new Date(s.date + 'T12:00:00');
+    const m = d.toLocaleDateString('en-CA', { month: 'long', year: 'numeric' });
+    if (m !== month) { html += `<h2 class="month">${m}</h2>`; month = m; }
+    const tracks = s.artists.reduce((n, a) => n + (trackCounts[a] || 0), 0);
+    const time = s.time ? new Date(`2000-01-01T${s.time}`).toLocaleTimeString('en-CA', { hour: 'numeric', minute: '2-digit' }) : '';
+    const status = s.status && !['onsale', 'offsale'].includes(s.status) ? `<span class="tag warn">${esc(s.status)}</span>` : '';
+    html += `<article class="show">
+      <div class="date"><span class="dow">${d.toLocaleDateString('en-CA', { weekday: 'short' })}</span>
+        <span class="day">${d.getDate()}</span><span class="mon">${d.toLocaleDateString('en-CA', { month: 'short' })}</span></div>
+      <div class="info">
+        <p class="artists">${s.artists.map(esc).join(' · ')}</p>
+        ${s.title && s.title.toLowerCase() !== s.artists.join(' · ').toLowerCase() ? `<p class="title">${esc(s.title)}</p>` : ''}
+        <div class="meta">
+          <span>${esc(s.venue || 'Venue TBA')}${s.city && s.city !== 'Toronto' ? ', ' + esc(s.city) : ''}</span>
+          ${time ? `<span>${time}</span>` : ''}
+          ${tracks ? `<span class="tag">${tracks} track${tracks > 1 ? 's' : ''} in playlist</span>` : ''}
+          ${s.source === 'claude' ? '<span class="tag">Indie venue</span>' : ''}
+          ${status}
+        </div>
+      </div>
+      ${s.url ? `<a class="tickets" href="${esc(s.url)}" target="_blank" rel="noopener">Tickets</a>` : ''}
+    </article>`;
+  }
+  $('#list').innerHTML = html;
+}
+
+$('#q').addEventListener('input', render);
+document.querySelectorAll('.chip').forEach(b => b.addEventListener('click', () => {
+  src = b.dataset.src;
+  document.querySelectorAll('.chip').forEach(c => c.setAttribute('aria-pressed', c === b));
+  render();
+}));
+load();
+</script>
+</body>
+</html>
