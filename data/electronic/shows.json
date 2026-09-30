@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T19:30:55+00:00",
+ "updated": "2026-09-30T19:32:14+00:00",
  "artist_count": 2790,
  "shows": [
   {
@@ -158,21 +158,6 @@
    "source": "ticketmaster"
   },
   {
-   "id": "tm-rZ7HnEZ1Afayb7",
-   "title": "AL GILMER'S GUNS N ROSES TRIBUTE, G N FN R plus TINTED BLACK",
-   "artists": [
-    "R Plus"
-   ],
-   "lineup": [],
-   "date": "2026-10-16",
-   "time": "20:30:00",
-   "status": "onsale",
-   "venue": "Spot 1 Grill & Music Hall",
-   "city": "Brampton",
-   "url": "https://www.ticketweb.ca/event/al-gilmers-guns-n-roses-spot-1-grill-music-tickets/14279604",
-   "source": "ticketmaster"
-  },
-  {
    "id": "tm-rZ7HnEZ1Af18r7",
    "title": "Because of Art",
    "artists": [
@@ -224,21 +209,6 @@
    "venue": "Scotiabank Arena",
    "city": "Toronto",
    "url": "https://www.ticketmaster.ca/john-summit-ctrl-escape-arena-tour-toronto-ontario-10-25-2026/event/100064B3A9BBACE6",
-   "source": "ticketmaster"
-  },
-  {
-   "id": "tm-rZ7HnEZ1A4vAoS",
-   "title": "Devil's Night with My Friend The Skeleton",
-   "artists": [
-    "My Friend"
-   ],
-   "lineup": [],
-   "date": "2026-10-30",
-   "time": "20:00:00",
-   "status": "onsale",
-   "venue": "twotwotwo",
-   "city": "Oshawa",
-   "url": "https://www.ticketweb.ca/event/devils-night-with-my-friend-twotwotwo-tickets/15045473",
    "source": "ticketmaster"
   },
   {
@@ -295,23 +265,6 @@
    "source": "ticketmaster"
   },
   {
-   "id": "tm-1k7ZvPGIGA5Q4lG",
-   "title": "MAVADO & Friends Live",
-   "artists": [
-    "&friends"
-   ],
-   "lineup": [
-    "Mavado"
-   ],
-   "date": "2026-11-05",
-   "time": "19:00:00",
-   "status": "onsale",
-   "venue": "Scotiabank Arena",
-   "city": "Toronto",
-   "url": "https://www.ticketmaster.ca/mavado-friends-live-toronto-ontario-11-05-2026/event/100065328B695ACC",
-   "source": "ticketmaster"
-  },
-  {
    "id": "tm-rZ7HnEZ1Af1baV",
    "title": "Jody Wisternoff",
    "artists": [
@@ -360,26 +313,6 @@
    "venue": "DPRTMNT",
    "city": "Toronto",
    "url": "https://www.ticketweb.ca/event/matt-sassari-dprtmnt-tickets/15046563",
-   "source": "ticketmaster"
-  },
-  {
-   "id": "tm-1A8Zko3GkeitoMS",
-   "title": "Light Of Day Canada Presents Tim Hicks & Friends",
-   "artists": [
-    "&friends"
-   ],
-   "lineup": [
-    "Light Of Day Canada",
-    "Tim Hicks",
-    "Steven Page",
-    "Miss Emily"
-   ],
-   "date": "2026-11-07",
-   "time": "19:00:00",
-   "status": "onsale",
-   "venue": "Meridian Centre",
-   "city": "St Catharines",
-   "url": "https://www.ticketmaster.ca/light-of-day-canada-presents-tim-st-catharines-ontario-11-07-2026/event/10006452ACA51DF3",
    "source": "ticketmaster"
   },
   {
