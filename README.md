@@ -1,18 +1,24 @@
-# Toronto Heavy Shows
+# Toronto Heavy Shows + Toronto Electronic Shows
 
-Upcoming Toronto-area concerts from bands on the Spotify playlist
-[I Like It Hard](https://open.spotify.com/playlist/0xHA2e6A8i3uZiwBpTwujr).
+Two pages listing upcoming Toronto-area concerts by artists from Spotify playlists:
+
+| Page | Playlists | Data |
+|---|---|---|
+| `/` (heavy) | [I Like It Hard](https://open.spotify.com/playlist/0xHA2e6A8i3uZiwBpTwujr) | `data/` |
+| `/electronic/` | [Deep into the Night](https://open.spotify.com/playlist/2HeWTWW4g3JXfXxg2xi2Q6), [Haus](https://open.spotify.com/playlist/3UHSFab5U05ksYkNqlNZ0s), [Funkadelic Disco](https://open.spotify.com/playlist/0tJsHMmIgKNxCbZavBddKA) | `data/electronic/` |
+
+Playlists for each page are set in `SITES` in `scripts/fetch_artists.py`.
 
 ## How it updates
 
 - **Mondays 10:00 UTC**, the GitHub Action (`.github/workflows/update.yml`):
-  1. `scripts/fetch_artists.py` refreshes `data/artists.json` from the playlist. If Spotify fails, it keeps the old list.
-  2. `scripts/fetch_ticketmaster.py` pulls every music event within 60 km of Toronto for the next 18 months and keeps the ones whose lineup includes a playlist artist. It writes the result to `data/shows.json`.
-- **Mondays, later in the day**, a scheduled Claude routine checks indie venue calendars that Ticketmaster doesn't cover and writes what it finds to `data/claude_shows.json`.
+  1. `scripts/fetch_artists.py` refreshes each page's `artists.json` from its playlists. If Spotify fails, it keeps the old list.
+  2. `scripts/fetch_ticketmaster.py` pulls every music event within 60 km of Toronto for the next 18 months and, for each page, keeps the ones whose lineup includes one of its artists. It writes the result to that page's `shows.json`.
+- **Mondays, later in the day**, a scheduled Claude routine for each page checks venue and promoter listings that Ticketmaster doesn't cover and writes what it finds to that page's `claude_shows.json`.
 
 The page merges both files in the browser. When both sources list the same artist on the same date, it shows the Ticketmaster entry.
 
-## `data/claude_shows.json` format
+## `claude_shows.json` format (both pages)
 
 ```json
 [

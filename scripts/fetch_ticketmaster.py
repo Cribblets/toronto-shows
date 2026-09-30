@@ -1,5 +1,6 @@
-"""Pull every Toronto-area music event from Ticketmaster and keep the ones
-featuring an artist from data/artists.json. Writes data/shows.json.
+"""Pull every Toronto-area music event from Ticketmaster once, then for each
+site keep the ones featuring an artist from its artists.json and write its
+shows.json.
 
 Needs TM_API_KEY (free key from developer.ticketmaster.com).
 """
@@ -21,6 +22,7 @@ RADIUS_KM = 60  # covers the GTA incl. Oshawa, Hamilton-ish, Vaughan
 MONTHS_AHEAD = 18
 PAGE_SIZE = 200
 MAX_DEEP = 1000  # Discovery API refuses size*page beyond this
+SITES = [DATA, DATA / "electronic"]
 
 
 def norm(s):
@@ -68,26 +70,14 @@ def events_between(key, start, end):
     return events
 
 
-def main():
-    key = os.environ.get("TM_API_KEY")
-    if not key:
-        sys.exit("TM_API_KEY is not set")
-
-    artists = json.loads((DATA / "artists.json").read_text())
+def match(site, events):
+    artists = json.loads((site / "artists.json").read_text())
     by_norm = {norm(a["name"]): a for a in artists}
     # Event-title matching is only safe for multi-word names; "Seven" or "Red" would match everything.
     title_matchable = {n: a for n, a in by_norm.items() if len(n.split()) >= 2}
 
-    start = datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0)
-    end = start + timedelta(days=30 * MONTHS_AHEAD)
-    events = events_between(key, start, end)
-    print(f"{len(events)} Toronto-area music events from Ticketmaster")
-
-    shows, seen = [], set()
+    shows = []
     for ev in events:
-        if ev["id"] in seen:
-            continue
-        seen.add(ev["id"])
         emb = ev.get("_embedded", {})
         lineup = [a["name"] for a in emb.get("attractions", [])]
         matched = {by_norm[norm(n)]["name"] for n in lineup if norm(n) in by_norm}
@@ -112,12 +102,25 @@ def main():
         })
 
     shows.sort(key=lambda s: (s["date"] or "", s["time"] or ""))
-    (DATA / "shows.json").write_text(json.dumps({
+    (site / "shows.json").write_text(json.dumps({
         "updated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "artist_count": len(artists),
         "shows": shows,
     }, indent=1, ensure_ascii=False) + "\n")
-    print(f"{len(shows)} shows matched your playlist")
+    print(f"{site.relative_to(DATA.parent)}: {len(shows)} shows matched")
+
+
+def main():
+    key = os.environ.get("TM_API_KEY")
+    if not key:
+        sys.exit("TM_API_KEY is not set")
+
+    start = datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0)
+    end = start + timedelta(days=30 * MONTHS_AHEAD)
+    events = list({ev["id"]: ev for ev in events_between(key, start, end)}.values())
+    print(f"{len(events)} Toronto-area music events from Ticketmaster")
+    for site in SITES:
+        match(site, events)
 
 
 if __name__ == "__main__":
