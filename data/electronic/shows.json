@@ -1,5 +1,623 @@
 {
- "updated": null,
+ "updated": "2026-09-30T19:30:55+00:00",
  "artist_count": 2790,
- "shows": []
+ "shows": [
+  {
+   "id": "tm-1AvZZ_FGkMGkmyK",
+   "title": "Jessie Ware: The Superbloom Tour",
+   "artists": [
+    "Jessie Ware"
+   ],
+   "lineup": [
+    "Jessie Ware"
+   ],
+   "date": "2026-10-05",
+   "time": "20:00:00",
+   "status": "cancelled",
+   "venue": "Massey Hall",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/jessie-ware-the-superbloom-tour-toronto-ontario-10-05-2026/event/1000648DCC1AEE53",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1AvZZ_FGkUOgFR6",
+   "title": "Jessie Ware: The Superbloom Tour",
+   "artists": [
+    "Jessie Ware"
+   ],
+   "lineup": [
+    "Jessie Ware",
+    "dhruv"
+   ],
+   "date": "2026-10-06",
+   "time": "19:00:00",
+   "status": "onsale",
+   "venue": "History Toronto",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/jessie-ware-the-superbloom-tour-toronto-ontario-10-06-2026/event/1000648DA0D48BC7",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zk3vGkegiHH0",
+   "title": "Julia Wolf - Deep End World Tour",
+   "artists": [
+    "Julia Wolf"
+   ],
+   "lineup": [
+    "Julia Wolf",
+    "Bee Blackwell"
+   ],
+   "date": "2026-10-07",
+   "time": "19:00:00",
+   "status": "onsale",
+   "venue": "The Opera House",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/julia-wolf-deep-end-world-tour-toronto-ontario-10-07-2026/event/10006481B5B3CF24",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-177Zv0G65RsumOU",
+   "title": "Mind Enterprises",
+   "artists": [
+    "Mind Enterprises"
+   ],
+   "lineup": [
+    "Mind Enterprises"
+   ],
+   "date": "2026-10-07",
+   "time": "20:00:00",
+   "status": "onsale",
+   "venue": "The Concert Hall",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/mind-enterprises-toronto-ontario-10-07-2026/event/100064BBF136E836",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1AvZZ_3GkI9aeKb",
+   "title": "Prospa",
+   "artists": [
+    "Prospa"
+   ],
+   "lineup": [
+    "Prospa"
+   ],
+   "date": "2026-10-08",
+   "time": "20:00:00",
+   "status": "onsale",
+   "venue": "History Toronto",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/prospa-toronto-ontario-10-08-2026/event/1000652A172424D8",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8ZkfoGkeUVhF3",
+   "title": "Prospa",
+   "artists": [
+    "Prospa"
+   ],
+   "lineup": [
+    "Prospa"
+   ],
+   "date": "2026-10-09",
+   "time": "20:00:00",
+   "status": "onsale",
+   "venue": "History Toronto",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/prospa-toronto-ontario-10-09-2026/event/10006511B6D1B212",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-rZ7HnEZ1AfPN_S",
+   "title": "JAZZY",
+   "artists": [
+    "Jazzy"
+   ],
+   "lineup": [
+    "Jazzy"
+   ],
+   "date": "2026-10-09",
+   "time": "22:30:00",
+   "status": "onsale",
+   "venue": "DPRTMNT",
+   "city": "Toronto",
+   "url": "https://www.ticketweb.ca/event/jazzy-dprtmnt-tickets/14963673",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-rZ7HnEZ1AfG8F7",
+   "title": "Horse Meat Disco",
+   "artists": [
+    "Horse Meat Disco"
+   ],
+   "lineup": [
+    "Horse Meat Disco"
+   ],
+   "date": "2026-10-11",
+   "time": "22:00:00",
+   "status": "onsale",
+   "venue": "NOIR (inside REBEL)",
+   "city": "Toronto",
+   "url": "https://www.ticketweb.ca/event/horse-meat-disco-noir-inside-rebel-tickets/14310204",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1AtZkftGkd21OYc",
+   "title": "Horse Meat Disco",
+   "artists": [
+    "Horse Meat Disco"
+   ],
+   "lineup": [
+    "Horse Meat Disco"
+   ],
+   "date": "2026-10-11",
+   "time": "22:00:00",
+   "status": "onsale",
+   "venue": "REBEL",
+   "city": "Toronto",
+   "url": "https://www.ticketweb.ca/event/horse-meat-disco-noir-inside-rebel-tickets/14310664?REFERRAL_ID=tmfeed",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-rZ7HnEZ1Afayb7",
+   "title": "AL GILMER'S GUNS N ROSES TRIBUTE, G N FN R plus TINTED BLACK",
+   "artists": [
+    "R Plus"
+   ],
+   "lineup": [],
+   "date": "2026-10-16",
+   "time": "20:30:00",
+   "status": "onsale",
+   "venue": "Spot 1 Grill & Music Hall",
+   "city": "Brampton",
+   "url": "https://www.ticketweb.ca/event/al-gilmers-guns-n-roses-spot-1-grill-music-tickets/14279604",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-rZ7HnEZ1Af18r7",
+   "title": "Because of Art",
+   "artists": [
+    "Because of Art"
+   ],
+   "lineup": [],
+   "date": "2026-10-17",
+   "time": "22:00:00",
+   "status": "onsale",
+   "venue": "CODA",
+   "city": "Toronto",
+   "url": "https://www.ticketweb.ca/event/because-of-art-coda-tickets/14290784",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-177Zv0G65247Nfx",
+   "title": "JOHN SUMMIT - CTRL ESCAPE ARENA TOUR",
+   "artists": [
+    "Alok",
+    "John Summit"
+   ],
+   "lineup": [
+    "John Summit",
+    "Alok"
+   ],
+   "date": "2026-10-24",
+   "time": "19:00:00",
+   "status": "onsale",
+   "venue": "TD Coliseum",
+   "city": "Hamilton",
+   "url": "https://www.ticketmaster.ca/john-summit-ctrl-escape-arena-tour-hamilton-ontario-10-24-2026/event/100064B3D5123522",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-177Zv0G65CtmBSJ",
+   "title": "JOHN SUMMIT - CTRL ESCAPE ARENA TOUR",
+   "artists": [
+    "Alok",
+    "John Summit"
+   ],
+   "lineup": [
+    "John Summit",
+    "Alok",
+    "Jackie Hollander"
+   ],
+   "date": "2026-10-25",
+   "time": "19:00:00",
+   "status": "onsale",
+   "venue": "Scotiabank Arena",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/john-summit-ctrl-escape-arena-tour-toronto-ontario-10-25-2026/event/100064B3A9BBACE6",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-rZ7HnEZ1A4vAoS",
+   "title": "Devil's Night with My Friend The Skeleton",
+   "artists": [
+    "My Friend"
+   ],
+   "lineup": [],
+   "date": "2026-10-30",
+   "time": "20:00:00",
+   "status": "onsale",
+   "venue": "twotwotwo",
+   "city": "Oshawa",
+   "url": "https://www.ticketweb.ca/event/devils-night-with-my-friend-twotwotwo-tickets/15045473",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-rZ7HnEZ1A4ZbAK",
+   "title": "COSMIC GATE",
+   "artists": [
+    "Cosmic Gate"
+   ],
+   "lineup": [
+    "Cosmic Gate"
+   ],
+   "date": "2026-10-30",
+   "time": "22:30:00",
+   "status": "onsale",
+   "venue": "DPRTMNT",
+   "city": "Toronto",
+   "url": "https://www.ticketweb.ca/event/cosmic-gate-dprtmnt-tickets/15018153",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-rZ7HnEZ1Af1bF0",
+   "title": "Ozmozis Halloween",
+   "artists": [
+    "Gabriel & Dresden",
+    "Super8 & Tab"
+   ],
+   "lineup": [
+    "Gabriel & Dresden",
+    "Super8 and Tab"
+   ],
+   "date": "2026-10-31",
+   "time": "16:00:00",
+   "status": "onsale",
+   "venue": "Evergreen Brickworks",
+   "city": "Toronto",
+   "url": "https://www.ticketweb.ca/event/ozmozis-halloween-evergreen-brickworks-tickets/14298224",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-rZ7HnEZ1AfG8q7",
+   "title": "KASKADE",
+   "artists": [
+    "Kaskade"
+   ],
+   "lineup": [
+    "Kaskade"
+   ],
+   "date": "2026-10-31",
+   "time": "22:00:00",
+   "status": "onsale",
+   "venue": "REBEL",
+   "city": "Toronto",
+   "url": "https://www.ticketweb.ca/event/kaskade-rebel-tickets/14310744",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1k7ZvPGIGA5Q4lG",
+   "title": "MAVADO & Friends Live",
+   "artists": [
+    "&friends"
+   ],
+   "lineup": [
+    "Mavado"
+   ],
+   "date": "2026-11-05",
+   "time": "19:00:00",
+   "status": "onsale",
+   "venue": "Scotiabank Arena",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/mavado-friends-live-toronto-ontario-11-05-2026/event/100065328B695ACC",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-rZ7HnEZ1Af1baV",
+   "title": "Jody Wisternoff",
+   "artists": [
+    "Jody Wisternoff"
+   ],
+   "lineup": [
+    "Jody Wisternoff"
+   ],
+   "date": "2026-11-06",
+   "time": "22:00:00",
+   "status": "onsale",
+   "venue": "Ozmozis",
+   "city": "Toronto",
+   "url": "https://www.ticketweb.ca/event/jody-wisternoff-ozmozis-tickets/14298274",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-rZ7HnEZ1Af16AV",
+   "title": "ARTBAT",
+   "artists": [
+    "ARTBAT"
+   ],
+   "lineup": [
+    "Artbat"
+   ],
+   "date": "2026-11-06",
+   "time": "22:00:00",
+   "status": "onsale",
+   "venue": "REBEL",
+   "city": "Toronto",
+   "url": "https://www.ticketweb.ca/event/artbat-rebel-tickets/14287174",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-rZ7HnEZ1A4vk4N",
+   "title": "MATT SASSARI",
+   "artists": [
+    "Matt Sassari"
+   ],
+   "lineup": [
+    "Matt Sassari"
+   ],
+   "date": "2026-11-06",
+   "time": "22:30:00",
+   "status": "onsale",
+   "venue": "DPRTMNT",
+   "city": "Toronto",
+   "url": "https://www.ticketweb.ca/event/matt-sassari-dprtmnt-tickets/15046563",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zko3GkeitoMS",
+   "title": "Light Of Day Canada Presents Tim Hicks & Friends",
+   "artists": [
+    "&friends"
+   ],
+   "lineup": [
+    "Light Of Day Canada",
+    "Tim Hicks",
+    "Steven Page",
+    "Miss Emily"
+   ],
+   "date": "2026-11-07",
+   "time": "19:00:00",
+   "status": "onsale",
+   "venue": "Meridian Centre",
+   "city": "St Catharines",
+   "url": "https://www.ticketmaster.ca/light-of-day-canada-presents-tim-st-catharines-ontario-11-07-2026/event/10006452ACA51DF3",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8ZkffGkeSAX2k",
+   "title": "Tobiahs",
+   "artists": [
+    "Tobiahs"
+   ],
+   "lineup": [
+    "Tobiahs"
+   ],
+   "date": "2026-11-13",
+   "time": "22:00:00",
+   "status": "onsale",
+   "venue": "The Opera House",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/tobiahs-toronto-ontario-11-13-2026/event/10006514B317E3C6",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-rZ7HnEZ1Af1FZV",
+   "title": "BEN NICKY x VINI VICI x FOVOS",
+   "artists": [
+    "Ben Nicky"
+   ],
+   "lineup": [
+    "Ben Nicky",
+    "Vini Vici",
+    "FOVOS"
+   ],
+   "date": "2026-11-14",
+   "time": "22:00:00",
+   "status": "onsale",
+   "venue": "REBEL",
+   "city": "Toronto",
+   "url": "https://www.ticketweb.ca/event/ben-nicky-x-vini-vici-rebel-tickets/14288034",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-177Zv0G65ReurkD",
+   "title": "GRYFFIN",
+   "artists": [
+    "Gryffin"
+   ],
+   "lineup": [
+    "GRYFFIN"
+   ],
+   "date": "2026-11-20",
+   "time": "20:00:00",
+   "status": "onsale",
+   "venue": "History Toronto",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/gryffin-toronto-ontario-11-20-2026/event/100064BBC235E1BB",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zkf-GkdrpzIi",
+   "title": "Victoria Monét: Frequency Of Love Tour",
+   "artists": [
+    "Victoria Monét"
+   ],
+   "lineup": [
+    "Victoria Monet"
+   ],
+   "date": "2026-11-21",
+   "time": "20:00:00",
+   "status": "onsale",
+   "venue": "Coca-Cola Coliseum",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/victoria-monet-frequency-of-love-tour-toronto-ontario-11-21-2026/event/10006521DE5B8A2C",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-177Zv0G65ReCC6a",
+   "title": "GRYFFIN",
+   "artists": [
+    "Gryffin"
+   ],
+   "lineup": [
+    "GRYFFIN"
+   ],
+   "date": "2026-11-21",
+   "time": "20:00:00",
+   "status": "onsale",
+   "venue": "History Toronto",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/gryffin-toronto-ontario-11-21-2026/event/100064BBC238E1C9",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1k7ZvNCbGAGVe_c",
+   "title": "Doja Cat - Tour Ma Vie World Tour",
+   "artists": [
+    "Doja Cat"
+   ],
+   "lineup": [
+    "Doja Cat",
+    "Latto"
+   ],
+   "date": "2026-11-25",
+   "time": "19:30:00",
+   "status": "onsale",
+   "venue": "Scotiabank Arena",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/doja-cat-tour-ma-vie-world-toronto-ontario-11-25-2026/event/100063398CD0266D",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-rZ7HnEZ1Af18oV",
+   "title": "WILL SPARKS",
+   "artists": [
+    "Will Sparks"
+   ],
+   "lineup": [
+    "Will Sparks"
+   ],
+   "date": "2026-11-27",
+   "time": "22:30:00",
+   "status": "offsale",
+   "venue": "DPRTMNT",
+   "city": "Toronto",
+   "url": "https://www.ticketweb.ca/event/will-sparks-dprtmnt-tickets/14290474",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-rZ7HnEZ1Af0UFd",
+   "title": "FYE Ultraclub Presents: FRANKY RIZARDO",
+   "artists": [
+    "Franky Rizardo"
+   ],
+   "lineup": [],
+   "date": "2026-11-28",
+   "time": "22:00:00",
+   "status": "onsale",
+   "venue": "FYE Ultra Club",
+   "city": "Toronto",
+   "url": "https://www.ticketweb.ca/event/fye-ultraclub-presents-franky-rizardo-fye-ultra-club-tickets/14936203",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8ZkfkGkdjvqF8",
+   "title": "Gallant: Celebrating A Decade Of Ology",
+   "artists": [
+    "Gallant"
+   ],
+   "lineup": [
+    "Gallant"
+   ],
+   "date": "2026-12-06",
+   "time": "19:00:00",
+   "status": "onsale",
+   "venue": "The Mod Club",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/gallant-celebrating-a-decade-of-ology-toronto-ontario-12-06-2026/event/10006506DC05D210",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-rZ7HnEZ1Af1b17",
+   "title": "Eelke Kleijn (Live)",
+   "artists": [
+    "Eelke Kleijn"
+   ],
+   "lineup": [],
+   "date": "2026-12-11",
+   "time": "22:00:00",
+   "status": "onsale",
+   "venue": "Ozmozis",
+   "city": "Toronto",
+   "url": "https://www.ticketweb.ca/event/eelke-kleijn-live-ozmozis-tickets/14298284",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1AvZZ_8GkD-R9gR",
+   "title": "Amtrac",
+   "artists": [
+    "Amtrac"
+   ],
+   "lineup": [
+    "Amtrac"
+   ],
+   "date": "2026-12-19",
+   "time": "22:00:00",
+   "status": "onsale",
+   "venue": "The Mod Club",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/amtrac-toronto-ontario-12-19-2026/event/1000650EE1BD7D6F",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8ZkfIGkdz8AOr",
+   "title": "La Roux - The Old Flames Tour",
+   "artists": [
+    "La Roux"
+   ],
+   "lineup": [
+    "La Roux"
+   ],
+   "date": "2027-01-31",
+   "time": "19:00:00",
+   "status": "offsale",
+   "venue": "The Danforth Music Hall",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/la-roux-the-old-flames-tour-toronto-ontario-01-31-2027/event/10006528F840581E",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-rZ7HnEZ1AfGpAf",
+   "title": "LAYTON GIORDANI",
+   "artists": [
+    "Layton Giordani"
+   ],
+   "lineup": [
+    "Layton Giordani"
+   ],
+   "date": "2027-02-19",
+   "time": "22:00:00",
+   "status": "onsale",
+   "venue": "REBEL",
+   "city": "Toronto",
+   "url": "https://www.ticketweb.ca/event/layton-giordani-rebel-tickets/14316154",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-177Zv0G65QU93Gl",
+   "title": "Nothing But Thieves: The Stray Dogs World Tour",
+   "artists": [
+    "Nothing But Thieves"
+   ],
+   "lineup": [
+    "Nothing But Thieves"
+   ],
+   "date": "2027-04-21",
+   "time": "20:00:00",
+   "status": "onsale",
+   "venue": "Massey Hall",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/nothing-but-thieves-the-stray-dogs-toronto-ontario-04-21-2027/event/100064B6B65D232B",
+   "source": "ticketmaster"
+  }
+ ]
 }
