@@ -1,26 +1,7 @@
 {
- "updated": "2026-09-30T19:32:14+00:00",
- "artist_count": 432,
+ "updated": "2026-10-05T18:59:56+00:00",
+ "artist_count": 433,
  "shows": [
-  {
-   "id": "tm-16vZZ_ajAG7nMij",
-   "title": "Bring Me The Horizon - POST HUMAN: NeX GEn-THE THIRD ASCENSION PROGRAM",
-   "artists": [
-    "Motionless In White"
-   ],
-   "lineup": [
-    "Bring Me The Horizon",
-    "Motionless In White",
-    "The Plot In You"
-   ],
-   "date": "2026-10-03",
-   "time": "19:00:00",
-   "status": "onsale",
-   "venue": "TD Coliseum",
-   "city": "Hamilton",
-   "url": "https://www.ticketmaster.ca/bring-me-the-horizon-post-human-hamilton-ontario-10-03-2026/event/1000649705AB7B1C",
-   "source": "ticketmaster"
-  },
   {
    "id": "tm-rZ7HnEZ1A4ZY0N",
    "title": "He Is Legend - The Time Travel Tour",
@@ -96,25 +77,6 @@
    "source": "ticketmaster"
   },
   {
-   "id": "tm-177Zv0G65C0syHf",
-   "title": "SiM - HOOMAN WORLD TOUR",
-   "artists": [
-    "SiM"
-   ],
-   "lineup": [
-    "SiM",
-    "Zero 9:36",
-    "aurorawave"
-   ],
-   "date": "2026-10-30",
-   "time": "18:30:00",
-   "status": "onsale",
-   "venue": "The Danforth Music Hall",
-   "city": "Toronto",
-   "url": "https://www.ticketmaster.ca/sim-hooman-world-tour-toronto-ontario-10-30-2026/event/100064B3A4C79F14",
-   "source": "ticketmaster"
-  },
-  {
    "id": "tm-177Zv0G61TuXH0k",
    "title": "Arch Enemy & The Black Dahlia Murder - Wrath Across North America 2026",
    "artists": [
@@ -165,7 +127,7 @@
    ],
    "date": "2026-11-07",
    "time": "20:00:00",
-   "status": "offsale",
+   "status": "cancelled",
    "venue": "The Cave ",
    "city": "Toronto",
    "url": "https://www.ticketweb.ca/event/halocene-the-cave-tickets/15018703",
@@ -377,7 +339,7 @@
    ],
    "date": "2027-03-03",
    "time": "18:00:00",
-   "status": "offsale",
+   "status": "onsale",
    "venue": "The Danforth Music Hall",
    "city": "Toronto",
    "url": "https://www.ticketmaster.ca/northlane-the-anemoia-tour-toronto-ontario-03-03-2027/event/10006531E34E764E",

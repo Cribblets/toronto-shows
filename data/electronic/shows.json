@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T19:32:14+00:00",
+ "updated": "2026-10-05T18:59:56+00:00",
  "artist_count": 2790,
  "shows": [
   {
@@ -431,7 +431,7 @@
    ],
    "date": "2026-11-27",
    "time": "22:30:00",
-   "status": "offsale",
+   "status": "onsale",
    "venue": "DPRTMNT",
    "city": "Toronto",
    "url": "https://www.ticketweb.ca/event/will-sparks-dprtmnt-tickets/14290474",
@@ -512,7 +512,7 @@
    ],
    "date": "2027-01-31",
    "time": "19:00:00",
-   "status": "offsale",
+   "status": "onsale",
    "venue": "The Danforth Music Hall",
    "city": "Toronto",
    "url": "https://www.ticketmaster.ca/la-roux-the-old-flames-tour-toronto-ontario-01-31-2027/event/10006528F840581E",
@@ -550,6 +550,25 @@
    "venue": "Massey Hall",
    "city": "Toronto",
    "url": "https://www.ticketmaster.ca/nothing-but-thieves-the-stray-dogs-toronto-ontario-04-21-2027/event/100064B6B65D232B",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1AvZZ_KGkSwYehX",
+   "title": "Greta Van Fleet - Into The Beginning",
+   "artists": [
+    "Portugal. The Man"
+   ],
+   "lineup": [
+    "Greta Van Fleet",
+    "Portugal. The Man",
+    "Friko"
+   ],
+   "date": "2027-07-29",
+   "time": "19:00:00",
+   "status": "offsale",
+   "venue": "RBC Amphitheatre",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/greta-van-fleet-into-the-beginning-toronto-ontario-07-29-2027/event/1000653CF2C026FE",
    "source": "ticketmaster"
   }
  ]

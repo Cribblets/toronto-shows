@@ -21,7 +21,7 @@
  },
  {
   "name": "Gorgon City",
-  "tracks": 35
+  "tracks": 36
  },
  {
   "name": "Sonny Fodera",
@@ -132,6 +132,10 @@
   "tracks": 16
  },
  {
+  "name": "Ross Quinn",
+  "tracks": 16
+ },
+ {
   "name": "Seamus Haji",
   "tracks": 16
  },
@@ -145,10 +149,6 @@
  },
  {
   "name": "Louie Vega",
-  "tracks": 15
- },
- {
-  "name": "Ross Quinn",
   "tracks": 15
  },
  {
@@ -352,6 +352,10 @@
   "tracks": 8
  },
  {
+  "name": "Delta Vaults",
+  "tracks": 8
+ },
+ {
   "name": "Frankie Knuckles",
   "tracks": 8
  },
@@ -425,10 +429,6 @@
  },
  {
   "name": "David Morales",
-  "tracks": 7
- },
- {
-  "name": "Delta Vaults",
   "tracks": 7
  },
  {
@@ -597,6 +597,10 @@
  },
  {
   "name": "Nico de Andrea",
+  "tracks": 6
+ },
+ {
+  "name": "Nu-La",
   "tracks": 6
  },
  {
@@ -788,10 +792,6 @@
   "tracks": 5
  },
  {
-  "name": "Nu-La",
-  "tracks": 5
- },
- {
   "name": "Oliver Heldens",
   "tracks": 5
  },
@@ -889,6 +889,10 @@
  },
  {
   "name": "Bryan Chambers",
+  "tracks": 4
+ },
+ {
+  "name": "Caroline Byrne",
   "tracks": 4
  },
  {
@@ -1277,10 +1281,6 @@
  },
  {
   "name": "Carlo Whale",
-  "tracks": 3
- },
- {
-  "name": "Caroline Byrne",
   "tracks": 3
  },
  {
@@ -2140,6 +2140,10 @@
   "tracks": 2
  },
  {
+  "name": "CHANEY",
+  "tracks": 2
+ },
+ {
   "name": "ChangedFaces",
   "tracks": 2
  },
@@ -2925,6 +2929,10 @@
  },
  {
   "name": "Markis",
+  "tracks": 2
+ },
+ {
+  "name": "Marten Lou",
   "tracks": 2
  },
  {
@@ -4953,10 +4961,6 @@
  },
  {
   "name": "Chanel",
-  "tracks": 1
- },
- {
-  "name": "CHANEY",
   "tracks": 1
  },
  {
@@ -8181,10 +8185,6 @@
  },
  {
   "name": "Marten Hørger",
-  "tracks": 1
- },
- {
-  "name": "Marten Lou",
   "tracks": 1
  },
  {

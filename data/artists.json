@@ -88,11 +88,11 @@
   "tracks": 21
  },
  {
-  "name": "Apocalyptica",
-  "tracks": 20
+  "name": "Of Mice & Men",
+  "tracks": 21
  },
  {
-  "name": "Of Mice & Men",
+  "name": "Apocalyptica",
   "tracks": 20
  },
  {
@@ -384,10 +384,6 @@
   "tracks": 5
  },
  {
-  "name": "Motionless In White",
-  "tracks": 5
- },
- {
   "name": "Northlane",
   "tracks": 5
  },
@@ -437,6 +433,10 @@
  },
  {
   "name": "Lightworker",
+  "tracks": 4
+ },
+ {
+  "name": "Motionless In White",
   "tracks": 4
  },
  {
@@ -556,6 +556,10 @@
   "tracks": 3
  },
  {
+  "name": "Aaron Pauley",
+  "tracks": 2
+ },
+ {
   "name": "Adam Gontier",
   "tracks": 2
  },
@@ -589,6 +593,10 @@
  },
  {
   "name": "Bad Wolves",
+  "tracks": 2
+ },
+ {
+  "name": "Blind Channel",
   "tracks": 2
  },
  {
@@ -800,10 +808,6 @@
   "tracks": 1
  },
  {
-  "name": "Aaron Pauley",
-  "tracks": 1
- },
- {
   "name": "Abandon",
   "tracks": 1
  },
@@ -920,10 +924,6 @@
   "tracks": 1
  },
  {
-  "name": "Blind Channel",
-  "tracks": 1
- },
- {
   "name": "Block of Flats",
   "tracks": 1
  },
@@ -1033,6 +1033,10 @@
  },
  {
   "name": "Dead Eyes",
+  "tracks": 1
+ },
+ {
+  "name": "Delta Vaults",
   "tracks": 1
  },
  {
@@ -1189,10 +1193,6 @@
  },
  {
   "name": "Ignea",
-  "tracks": 1
- },
- {
-  "name": "ILLENIUM",
   "tracks": 1
  },
  {
@@ -1609,6 +1609,10 @@
  },
  {
   "name": "Sullivan King",
+  "tracks": 1
+ },
+ {
+  "name": "Sunsleep",
   "tracks": 1
  },
  {
