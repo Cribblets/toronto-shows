@@ -11,6 +11,8 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
+import fetch_venue_pages
+
 FETCH_PLAYLIST_HASH = "19ff1327c29e99c208c86d7a9d8f1929cfdf3d3202a0ff4253c821f1901aa94d"
 DATA = Path(__file__).resolve().parent.parent / "data"
 SITES = {
@@ -73,3 +75,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+    # The weekly workflow only runs this script and fetch_ticketmaster.py, so venue snapshots ride along here.
+    fetch_venue_pages.main()
