@@ -40,5 +40,19 @@
     "url": "https://wiggleroomtoronto.com/event/sunday-service-manzone-strong-addy/",
     "source": "claude",
     "found": "2026-10-06"
+  },
+  {
+    "id": "claude-feyln-2026-10-17",
+    "title": "Because of Art | R8YZ | FEYLN",
+    "artists": [
+      "Feyln"
+    ],
+    "date": "2026-10-17",
+    "time": "22:00:00",
+    "venue": "CODA",
+    "city": "Toronto",
+    "url": "https://www.ticketweb.ca/event/because-of-art-coda-tickets/14290784",
+    "source": "claude",
+    "found": "2026-10-06"
   }
 ]
