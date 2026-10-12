@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T12:38:10+00:00",
+ "updated": "2026-10-12T19:33:19+00:00",
  "artist_count": 433,
  "shows": [
   {
@@ -289,6 +289,24 @@
    "source": "ticketmaster"
   },
   {
+   "id": "tm-rZ7HnEZ1AfuN87",
+   "title": "TesseracT, Entheos, Sunborn",
+   "artists": [
+    "TesseracT"
+   ],
+   "lineup": [
+    "TesseracT",
+    "Entheos"
+   ],
+   "date": "2027-01-10",
+   "time": "19:00:00",
+   "status": "onsale",
+   "venue": "The Concert Hall",
+   "city": "Toronto",
+   "url": "https://www.ticketweb.ca/event/tesseract-entheos-sunborn-the-concert-hall-tickets/14363404",
+   "source": "ticketmaster"
+  },
+  {
    "id": "tm-rZ7HnEZ1AfJ_fN",
    "title": "ABYSS NORTH AMERICA TOUR - ANNISOKAY",
    "artists": [
@@ -343,6 +361,28 @@
    "venue": "The Danforth Music Hall",
    "city": "Toronto",
    "url": "https://www.ticketmaster.ca/northlane-the-anemoia-tour-toronto-ontario-03-03-2027/event/10006531E34E764E",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1AvZZ_KGkMPJrDN",
+   "title": "From Ashes to New - Reflections Tour 2027",
+   "artists": [
+    "Dark Divine",
+    "From Ashes to New",
+    "Nevertel"
+   ],
+   "lineup": [
+    "From Ashes To New",
+    "Nevertel",
+    "Dark Divine",
+    "Hollow Pact"
+   ],
+   "date": "2027-03-14",
+   "time": "17:30:00",
+   "status": "onsale",
+   "venue": "The Danforth Music Hall",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/from-ashes-to-new-reflections-tour-toronto-ontario-03-14-2027/event/1000653DE599EEE3",
    "source": "ticketmaster"
   },
   {

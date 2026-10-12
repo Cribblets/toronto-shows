@@ -240,7 +240,7 @@
   "tracks": 11
  },
  {
-  "name": "JEWELS",
+  "name": "jewels",
   "tracks": 11
  },
  {
@@ -1745,6 +1745,10 @@
  },
  {
   "name": "S.E.L",
+  "tracks": 3
+ },
+ {
+  "name": "Sam Divine",
   "tracks": 3
  },
  {
@@ -8724,7 +8728,7 @@
   "tracks": 1
  },
  {
-  "name": "Neoton Familia",
+  "name": "Neoton Família",
   "tracks": 1
  },
  {
@@ -9613,10 +9617,6 @@
  },
  {
   "name": "Sam DeRosa",
-  "tracks": 1
- },
- {
-  "name": "Sam Divine",
   "tracks": 1
  },
  {

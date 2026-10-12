@@ -48,16 +48,16 @@
   "tracks": 29
  },
  {
+  "name": "Dark Divine",
+  "tracks": 27
+ },
+ {
   "name": "Slot",
   "tracks": 27
  },
  {
   "name": "Wolves At The Gate",
   "tracks": 27
- },
- {
-  "name": "Dark Divine",
-  "tracks": 26
  },
  {
   "name": "Nine Lashes",
@@ -160,10 +160,6 @@
   "tracks": 12
  },
  {
-  "name": "Uneven Structure",
-  "tracks": 12
- },
- {
   "name": "Dream State",
   "tracks": 11
  },
@@ -189,6 +185,10 @@
  },
  {
   "name": "The Pretty Wild",
+  "tracks": 11
+ },
+ {
+  "name": "Uneven Structure",
   "tracks": 11
  },
  {
@@ -344,6 +344,10 @@
   "tracks": 6
  },
  {
+  "name": "DIAMANTE",
+  "tracks": 6
+ },
+ {
   "name": "Straight Line Stitch",
   "tracks": 6
  },
@@ -361,10 +365,6 @@
  },
  {
   "name": "Catch Your Breath",
-  "tracks": 5
- },
- {
-  "name": "DIAMANTE",
   "tracks": 5
  },
  {
@@ -436,6 +436,10 @@
   "tracks": 4
  },
  {
+  "name": "Lost in Hollywood",
+  "tracks": 4
+ },
+ {
   "name": "Motionless In White",
   "tracks": 4
  },
@@ -457,6 +461,10 @@
  },
  {
   "name": "Annisokay",
+  "tracks": 3
+ },
+ {
+  "name": "Archers",
   "tracks": 3
  },
  {
@@ -505,10 +513,6 @@
  },
  {
   "name": "Killswitch Engage",
-  "tracks": 3
- },
- {
-  "name": "Lost in Hollywood",
   "tracks": 3
  },
  {
@@ -573,10 +577,6 @@
  },
  {
   "name": "Arch Enemy",
-  "tracks": 2
- },
- {
-  "name": "Archers",
   "tracks": 2
  },
  {

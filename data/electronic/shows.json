@@ -1,148 +1,10 @@
 {
- "updated": "2026-10-06T12:38:10+00:00",
+ "updated": "2026-10-12T19:33:19+00:00",
  "artist_count": 2790,
  "shows": [
   {
-   "id": "tm-1AvZZ_FGkUOgFR6",
-   "title": "Jessie Ware: The Superbloom Tour",
-   "artists": [
-    "Jessie Ware"
-   ],
-   "lineup": [
-    "Jessie Ware",
-    "dhruv"
-   ],
-   "date": "2026-10-06",
-   "time": "19:00:00",
-   "status": "onsale",
-   "venue": "History Toronto",
-   "city": "Toronto",
-   "url": "https://www.ticketmaster.ca/jessie-ware-the-superbloom-tour-toronto-ontario-10-06-2026/event/1000648DA0D48BC7",
-   "source": "ticketmaster"
-  },
-  {
-   "id": "tm-1A8Zk3vGkegiHH0",
-   "title": "Julia Wolf - Deep End World Tour",
-   "artists": [
-    "Julia Wolf"
-   ],
-   "lineup": [
-    "Julia Wolf",
-    "Bee Blackwell"
-   ],
-   "date": "2026-10-07",
-   "time": "19:00:00",
-   "status": "onsale",
-   "venue": "The Opera House",
-   "city": "Toronto",
-   "url": "https://www.ticketmaster.ca/julia-wolf-deep-end-world-tour-toronto-ontario-10-07-2026/event/10006481B5B3CF24",
-   "source": "ticketmaster"
-  },
-  {
-   "id": "tm-177Zv0G65RsumOU",
-   "title": "Mind Enterprises",
-   "artists": [
-    "Mind Enterprises"
-   ],
-   "lineup": [
-    "Mind Enterprises"
-   ],
-   "date": "2026-10-07",
-   "time": "20:00:00",
-   "status": "onsale",
-   "venue": "The Concert Hall",
-   "city": "Toronto",
-   "url": "https://www.ticketmaster.ca/mind-enterprises-toronto-ontario-10-07-2026/event/100064BBF136E836",
-   "source": "ticketmaster"
-  },
-  {
-   "id": "tm-1AvZZ_3GkI9aeKb",
-   "title": "Prospa",
-   "artists": [
-    "Prospa"
-   ],
-   "lineup": [
-    "Prospa"
-   ],
-   "date": "2026-10-08",
-   "time": "20:00:00",
-   "status": "onsale",
-   "venue": "History Toronto",
-   "city": "Toronto",
-   "url": "https://www.ticketmaster.ca/prospa-toronto-ontario-10-08-2026/event/1000652A172424D8",
-   "source": "ticketmaster"
-  },
-  {
-   "id": "tm-1A8ZkfoGkeUVhF3",
-   "title": "Prospa",
-   "artists": [
-    "Prospa"
-   ],
-   "lineup": [
-    "Prospa"
-   ],
-   "date": "2026-10-09",
-   "time": "20:00:00",
-   "status": "onsale",
-   "venue": "History Toronto",
-   "city": "Toronto",
-   "url": "https://www.ticketmaster.ca/prospa-toronto-ontario-10-09-2026/event/10006511B6D1B212",
-   "source": "ticketmaster"
-  },
-  {
-   "id": "tm-rZ7HnEZ1AfPN_S",
-   "title": "JAZZY",
-   "artists": [
-    "Jazzy"
-   ],
-   "lineup": [
-    "Jazzy"
-   ],
-   "date": "2026-10-09",
-   "time": "22:30:00",
-   "status": "onsale",
-   "venue": "DPRTMNT",
-   "city": "Toronto",
-   "url": "https://www.ticketweb.ca/event/jazzy-dprtmnt-tickets/14963673",
-   "source": "ticketmaster"
-  },
-  {
-   "id": "tm-rZ7HnEZ1AfG8F7",
-   "title": "Horse Meat Disco",
-   "artists": [
-    "Horse Meat Disco"
-   ],
-   "lineup": [
-    "Horse Meat Disco"
-   ],
-   "date": "2026-10-11",
-   "time": "22:00:00",
-   "status": "onsale",
-   "venue": "NOIR (inside REBEL)",
-   "city": "Toronto",
-   "url": "https://www.ticketweb.ca/event/horse-meat-disco-noir-inside-rebel-tickets/14310204",
-   "source": "ticketmaster"
-  },
-  {
-   "id": "tm-1AtZkftGkd21OYc",
-   "title": "Horse Meat Disco",
-   "artists": [
-    "Horse Meat Disco"
-   ],
-   "lineup": [
-    "Horse Meat Disco"
-   ],
-   "date": "2026-10-11",
-   "time": "22:00:00",
-   "status": "onsale",
-   "venue": "REBEL",
-   "city": "Toronto",
-   "url": "https://www.ticketweb.ca/event/horse-meat-disco-noir-inside-rebel-tickets/14310664?REFERRAL_ID=tmfeed",
-   "source": "ticketmaster"
-  },
-  {
    "id": "tm-rZ7HnEZ1Af18r7",
-   "title": "Because of Art",
+   "title": "Because of Art | 4AM License",
    "artists": [
     "Because of Art"
    ],
@@ -152,7 +14,7 @@
    "status": "onsale",
    "venue": "CODA",
    "city": "Toronto",
-   "url": "https://www.ticketweb.ca/event/because-of-art-coda-tickets/14290784",
+   "url": "https://www.ticketweb.ca/event/because-of-art-4am-coda-tickets/14290784",
    "source": "ticketmaster"
   },
   {
@@ -358,7 +220,7 @@
     "Victoria Monét"
    ],
    "lineup": [
-    "Victoria Monet"
+    "Victoria Monét"
    ],
    "date": "2026-11-21",
    "time": "20:00:00",
@@ -482,6 +344,23 @@
    "venue": "The Mod Club",
    "city": "Toronto",
    "url": "https://www.ticketmaster.ca/amtrac-toronto-ontario-12-19-2026/event/1000650EE1BD7D6F",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zk4AGken6tqi",
+   "title": "Odd Mob",
+   "artists": [
+    "Odd Mob"
+   ],
+   "lineup": [
+    "Odd Mob"
+   ],
+   "date": "2026-12-30",
+   "time": "20:00:00",
+   "status": "onsale",
+   "venue": "History Toronto",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/odd-mob-toronto-ontario-12-30-2026/event/10006545AA1E976C",
    "source": "ticketmaster"
   },
   {

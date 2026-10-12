@@ -4,14 +4,14 @@ Toronto Music Listings ·
 Toronto Live Music Events
 Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆
 Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆
-Updated Oct 06 2026
+Updated Oct 12 2026
 Open main menu
 T
 Toronto Music Listings
 Events
 Venues
 About
-Updated Oct 06 2026
+Updated Oct 12 2026
 Submit Event
 Events
 Venues
@@ -30,6 +30,7 @@ Venues
 All venues
 Adelaide Hall
 Annabel's Music Hall
+Arraymusic
 Bambi's
 Betty Oliphant Theatre
 Bovine Sex Club
@@ -50,6 +51,7 @@ Drom Taberna
 El Mocambo
 Free Times Cafe
 Function Bar
+Fusilli Ristorante
 Great Canadian Casino Resort Toronto
 Grossman's Tavern
 Ground Control
@@ -87,6 +89,7 @@ Standard Time
 St. Lawrence Centre for the Arts
 Story Toronto
 Supermarket
+Tapestry
 TD Music Hall
 Temerty Theatre
 The Baby G
@@ -126,6 +129,7 @@ Filters
 Venues
 Adelaide Hall
 Annabel's Music Hall
+Arraymusic
 Bambi's
 Betty Oliphant Theatre
 Bovine Sex Club
@@ -146,6 +150,7 @@ Drom Taberna
 El Mocambo
 Free Times Cafe
 Function Bar
+Fusilli Ristorante
 Great Canadian Casino Resort Toronto
 Grossman's Tavern
 Ground Control
@@ -183,6 +188,7 @@ Standard Time
 St. Lawrence Centre for the Arts
 Story Toronto
 Supermarket
+Tapestry
 TD Music Hall
 Temerty Theatre
 The Baby G
