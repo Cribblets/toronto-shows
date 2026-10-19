@@ -4,14 +4,14 @@ Toronto Music Listings ·
 Toronto Live Music Events
 Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆
 Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆
-Updated Oct 12 2026
+Updated Oct 19 2026
 Open main menu
 T
 Toronto Music Listings
 Events
 Venues
 About
-Updated Oct 12 2026
+Updated Oct 19 2026
 Submit Event
 Events
 Venues
@@ -33,6 +33,7 @@ Annabel's Music Hall
 Arraymusic
 Bambi's
 Betty Oliphant Theatre
+Black Swan Tavern
 Bovine Sex Club
 BSMT 254
 Burdock Music Hall
@@ -58,6 +59,7 @@ Ground Control
 Half Note 416
 Handlebar
 Hard Luck Bar
+Heliconian Club
 History
 Hugh's Room
 Jazz Bistro
@@ -89,6 +91,7 @@ Standard Time
 St. Lawrence Centre for the Arts
 Story Toronto
 Supermarket
+Super Wonder Gallery
 Tapestry
 TD Music Hall
 Temerty Theatre
@@ -115,7 +118,6 @@ The Rockpile
 The Sound Garage
 Timothy's Pub
 Tranzac
-Trinity-St. Paul's United Church and Centre for Faith, Justice and the Arts
 Wiggle Room
 When
 Jump to date
@@ -132,6 +134,7 @@ Annabel's Music Hall
 Arraymusic
 Bambi's
 Betty Oliphant Theatre
+Black Swan Tavern
 Bovine Sex Club
 BSMT 254
 Burdock Music Hall
@@ -157,6 +160,7 @@ Ground Control
 Half Note 416
 Handlebar
 Hard Luck Bar
+Heliconian Club
 History
 Hugh's Room
 Jazz Bistro
@@ -188,6 +192,7 @@ Standard Time
 St. Lawrence Centre for the Arts
 Story Toronto
 Supermarket
+Super Wonder Gallery
 Tapestry
 TD Music Hall
 Temerty Theatre
@@ -214,7 +219,6 @@ The Rockpile
 The Sound Garage
 Timothy's Pub
 Tranzac
-Trinity-St. Paul's United Church and Centre for Faith, Justice and the Arts
 Wiggle Room
 Date
 Go

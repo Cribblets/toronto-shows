@@ -128,6 +128,10 @@
   "tracks": 17
  },
  {
+  "name": "HAYLA",
+  "tracks": 16
+ },
+ {
   "name": "Maceo Plex",
   "tracks": 16
  },
@@ -141,10 +145,6 @@
  },
  {
   "name": "Hayden James",
-  "tracks": 15
- },
- {
-  "name": "HAYLA",
   "tracks": 15
  },
  {
@@ -252,6 +252,10 @@
   "tracks": 11
  },
  {
+  "name": "Nora En Pure",
+  "tracks": 11
+ },
+ {
   "name": "The APX",
   "tracks": 11
  },
@@ -309,10 +313,6 @@
  },
  {
   "name": "Kathy Brown",
-  "tracks": 9
- },
- {
-  "name": "Nora En Pure",
   "tracks": 9
  },
  {
@@ -796,6 +796,10 @@
   "tracks": 5
  },
  {
+  "name": "Paradoks",
+  "tracks": 5
+ },
+ {
   "name": "Patrice Rushen",
   "tracks": 5
  },
@@ -1133,10 +1137,6 @@
  },
  {
   "name": "Olly Alexander (Years & Years)",
-  "tracks": 4
- },
- {
-  "name": "Paradoks",
   "tracks": 4
  },
  {
@@ -1673,6 +1673,10 @@
  },
  {
   "name": "Natalie Shay",
+  "tracks": 3
+ },
+ {
+  "name": "Nelly Furtado",
   "tracks": 3
  },
  {
@@ -3065,10 +3069,6 @@
  },
  {
   "name": "Nazzereene",
-  "tracks": 2
- },
- {
-  "name": "Nelly Furtado",
   "tracks": 2
  },
  {

@@ -1,42 +1,6 @@
 Source: https://www.garrisontoronto.com/
 
 The Garrison
-SATURDAY
-OCTOBER
-10
-WISHY
-YOUBET
-7:PM
-$22.00 advance
-SATURDAY
-OCTOBER
-10
-4am LAST CALL
-DJ TAG
-12:AM ~ 4:AM
-No cover
-SUNDAY
-OCTOBER
-11
-AVERY COCHRANE
-Support TBA
-7:PM
-$35.14 advance
-SUNDAY
-OCTOBER
-11
-4am LAST CALL
-DJ TRUSTFALL
-12:AM ~ 4:AM
-No cover
-TUESDAY
-OCTOBER
-13
-OSO OSO
-LEISURE HOUR
-BAD LUCK
-6:30:PM
-$39.14 advance
 WEDNESDAY
 OCTOBER
 14
@@ -92,6 +56,7 @@ OCTOBER
 18
 THE TUBS
 MOPAR STARS
+THE CRIME FAMILY
 7:PM
 $33.05 advance
 SUNDAY
@@ -133,6 +98,13 @@ QUEST MASTER
 DUNGEONTROLL
 7:30:PM
 $33.05 advance
+THURSDAY
+OCTOBER
+22
+4am LAST CALL
+DJ VANIA
+12:AM ~ 4:AM
+No cover
 FRIDAY
 OCTOBER
 23
@@ -144,6 +116,13 @@ LAUGHING CORPSE
 BUFF
 10:30:PM
 $40.00 for 1 afterparty, $65 for 2 afterparties
+FRIDAY
+OCTOBER
+23
+4am LAST CALL
+DJ
+12:AM ~ 4:AM
+No cover
 SATURDAY
 OCTOBER
 24
@@ -162,6 +141,13 @@ GROTTO
 FERTILIZER
 10:30:PM
 $40.00 for 1 afterparty, $65 for 2 afterparties
+SATURDAY
+OCTOBER
+24
+4am LAST CALL
+DJ
+12:AM ~ 4:AM
+No cover
 SUNDAY
 OCTOBER
 25
@@ -171,6 +157,13 @@ TOAD
 LAST WILL
 7:PM
 $41.75 advance
+SUNDAY
+OCTOBER
+25
+4am LAST CALL
+DJ SADSTAB
+12:AM ~ 4:AM
+No cover
 THURSDAY
 OCTOBER
 29
@@ -179,6 +172,13 @@ Kliph Nesteroff's Book Launch
 w/ Comedy Critic Andrew Clark
 7:PM
 $45.84 advance
+FRIDAY
+OCTOBER
+30
+GLIMMERING DOLLS
+Join us for a terrifying and enchanting night with the queer community!
+9:PM
+$17.69 advance
 SATURDAY
 OCTOBER
 31
@@ -317,6 +317,13 @@ LIIM
 Support TBA
 7:PM
 $35.54 advance
+THURSDAY
+NOVEMBER
+26
+LAVENDER TOWN PLAYS VOCALOID
+ETHER 2006
+7:PM
+$30.00 advance
 FRIDAY
 NOVEMBER
 27
@@ -417,6 +424,13 @@ THE ARCADIAN WILD
 Support TBA
 7:PM
 $25.00 advance
+TUESDAY
+MARCH
+o9
+WINONA FIGHTER
+SPACED
+7:PM
+$TBD advance
 MONDAY
 MARCH
 15

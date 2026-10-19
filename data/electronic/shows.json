@@ -1,22 +1,7 @@
 {
- "updated": "2026-10-12T19:33:19+00:00",
+ "updated": "2026-10-19T16:44:27+00:00",
  "artist_count": 2790,
  "shows": [
-  {
-   "id": "tm-rZ7HnEZ1Af18r7",
-   "title": "Because of Art | 4AM License",
-   "artists": [
-    "Because of Art"
-   ],
-   "lineup": [],
-   "date": "2026-10-17",
-   "time": "22:00:00",
-   "status": "onsale",
-   "venue": "CODA",
-   "city": "Toronto",
-   "url": "https://www.ticketweb.ca/event/because-of-art-4am-coda-tickets/14290784",
-   "source": "ticketmaster"
-  },
   {
    "id": "tm-177Zv0G65247Nfx",
    "title": "JOHN SUMMIT - CTRL ESCAPE ARENA TOUR",
@@ -26,7 +11,8 @@
    ],
    "lineup": [
     "John Summit",
-    "Alok"
+    "Alok",
+    "Dansyn"
    ],
    "date": "2026-10-24",
    "time": "19:00:00",
@@ -381,6 +367,25 @@
    "source": "ticketmaster"
   },
   {
+   "id": "tm-168Zk46aJZACC66k",
+   "title": "Riordan Presents \"Remapped\" Toronto",
+   "artists": [
+    "IDEMI"
+   ],
+   "lineup": [
+    "Riordan",
+    "IDEMI",
+    "Boss Priester"
+   ],
+   "date": "2027-02-12",
+   "time": "20:00:00",
+   "status": "offsale",
+   "venue": "History Toronto",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/riordan-presents-remapped-toronto-toronto-ontario-02-12-2027/event/10006547266DD665",
+   "source": "ticketmaster"
+  },
+  {
    "id": "tm-rZ7HnEZ1AfGpAf",
    "title": "LAYTON GIORDANI",
    "artists": [
@@ -395,6 +400,40 @@
    "venue": "REBEL",
    "city": "Toronto",
    "url": "https://www.ticketweb.ca/event/layton-giordani-rebel-tickets/14316154",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zk4FGkeVlXcB",
+   "title": "Calvin Harris - North America Tour",
+   "artists": [
+    "Calvin Harris"
+   ],
+   "lineup": [
+    "Calvin Harris"
+   ],
+   "date": "2027-04-12",
+   "time": "20:00:00",
+   "status": "offsale",
+   "venue": "Scotiabank Arena",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/calvin-harris-north-america-tour-toronto-ontario-04-12-2027/event/10006548B4AFEB7A",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zk4aGkd5CdnL",
+   "title": "Calvin Harris - North America Tour",
+   "artists": [
+    "Calvin Harris"
+   ],
+   "lineup": [
+    "Calvin Harris"
+   ],
+   "date": "2027-04-17",
+   "time": "20:00:00",
+   "status": "offsale",
+   "venue": "TD Coliseum",
+   "city": "Hamilton",
+   "url": "https://www.ticketmaster.ca/calvin-harris-north-america-tour-hamilton-ontario-04-17-2027/event/10006549CB383A9F",
    "source": "ticketmaster"
   },
   {
@@ -427,7 +466,7 @@
    ],
    "date": "2027-07-29",
    "time": "19:00:00",
-   "status": "offsale",
+   "status": "onsale",
    "venue": "RBC Amphitheatre",
    "city": "Toronto",
    "url": "https://www.ticketmaster.ca/greta-van-fleet-into-the-beginning-toronto-ontario-07-29-2027/event/1000653CF2C026FE",

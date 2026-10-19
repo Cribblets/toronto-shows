@@ -1,24 +1,7 @@
 {
- "updated": "2026-10-12T19:33:19+00:00",
+ "updated": "2026-10-19T16:44:27+00:00",
  "artist_count": 433,
  "shows": [
-  {
-   "id": "tm-rZ7HnEZ1A4ZY0N",
-   "title": "He Is Legend - The Time Travel Tour",
-   "artists": [
-    "He Is Legend"
-   ],
-   "lineup": [
-    "He Is Legend"
-   ],
-   "date": "2026-10-15",
-   "time": "19:00:00",
-   "status": "onsale",
-   "venue": "Lee's Palace",
-   "city": "Toronto",
-   "url": "https://www.ticketweb.ca/event/he-is-legend-lees-palace-tickets/15030923",
-   "source": "ticketmaster"
-  },
   {
    "id": "tm-177Zv0G65rcNeqk",
    "title": "Plini - An Unnameable Desire North American Tour",
