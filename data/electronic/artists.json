@@ -104,6 +104,10 @@
   "tracks": 19
  },
  {
+  "name": "Going Deeper",
+  "tracks": 18
+ },
+ {
   "name": "Kaskade",
   "tracks": 18
  },
@@ -120,12 +124,12 @@
   "tracks": 17
  },
  {
-  "name": "Going Deeper",
+  "name": "Michael Gray",
   "tracks": 17
  },
  {
-  "name": "Michael Gray",
-  "tracks": 17
+  "name": "Hayden James",
+  "tracks": 16
  },
  {
   "name": "HAYLA",
@@ -142,10 +146,6 @@
  {
   "name": "Seamus Haji",
   "tracks": 16
- },
- {
-  "name": "Hayden James",
-  "tracks": 15
  },
  {
   "name": "Louie Vega",
@@ -1804,6 +1804,10 @@
   "tracks": 3
  },
  {
+  "name": "Sylvie",
+  "tracks": 3
+ },
+ {
   "name": "Sísý Ey",
   "tracks": 3
  },
@@ -2716,6 +2720,10 @@
   "tracks": 2
  },
  {
+  "name": "Judgemxnt",
+  "tracks": 2
+ },
+ {
   "name": "Juliet",
   "tracks": 2
  },
@@ -3489,10 +3497,6 @@
  },
  {
   "name": "Sybil",
-  "tracks": 2
- },
- {
-  "name": "Sylvie",
   "tracks": 2
  },
  {
@@ -7268,10 +7272,6 @@
   "tracks": 1
  },
  {
-  "name": "Judgemxnt",
-  "tracks": 1
- },
- {
   "name": "Judie Tzuke",
   "tracks": 1
  },
@@ -8121,6 +8121,10 @@
  },
  {
   "name": "Marcus Bently",
+  "tracks": 1
+ },
+ {
+  "name": "Maria Hazell",
   "tracks": 1
  },
  {

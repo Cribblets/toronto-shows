@@ -1,7 +1,7 @@
 [
  {
   "name": "Lacuna Coil",
-  "tracks": 114
+  "tracks": 115
  },
  {
   "name": "TesseracT",
@@ -41,7 +41,7 @@
  },
  {
   "name": "Chaosbay",
-  "tracks": 30
+  "tracks": 31
  },
  {
   "name": "Hands Like Houses",
@@ -168,6 +168,10 @@
   "tracks": 11
  },
  {
+  "name": "Normandie",
+  "tracks": 11
+ },
+ {
   "name": "Sent By Ravens",
   "tracks": 11
  },
@@ -205,10 +209,6 @@
  },
  {
   "name": "Icon For Hire",
-  "tracks": 10
- },
- {
-  "name": "Normandie",
   "tracks": 10
  },
  {
@@ -316,6 +316,10 @@
   "tracks": 7
  },
  {
+  "name": "DIAMANTE",
+  "tracks": 7
+ },
+ {
   "name": "Falling Up",
   "tracks": 7
  },
@@ -341,10 +345,6 @@
  },
  {
   "name": "blessthefall",
-  "tracks": 6
- },
- {
-  "name": "DIAMANTE",
   "tracks": 6
  },
  {

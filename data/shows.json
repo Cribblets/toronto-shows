@@ -1,44 +1,7 @@
 {
- "updated": "2026-10-19T16:44:27+00:00",
+ "updated": "2026-10-26T16:24:43+00:00",
  "artist_count": 433,
  "shows": [
-  {
-   "id": "tm-177Zv0G65rcNeqk",
-   "title": "Plini - An Unnameable Desire North American Tour",
-   "artists": [
-    "Plini"
-   ],
-   "lineup": [
-    "Plini",
-    "Night Verses",
-    "Portraits"
-   ],
-   "date": "2026-10-22",
-   "time": "18:00:00",
-   "status": "onsale",
-   "venue": "The Danforth Music Hall",
-   "city": "Toronto",
-   "url": "https://www.ticketmaster.ca/plini-an-unnameable-desire-north-american-toronto-ontario-10-22-2026/event/100064B7AD8C2746",
-   "source": "ticketmaster"
-  },
-  {
-   "id": "tm-rZ7HnEZ1Afxdod",
-   "title": "Icon For Hire, Elijah, Lauren Babic",
-   "artists": [
-    "Icon For Hire"
-   ],
-   "lineup": [
-    "Icon for Hire",
-    "Lauren Babic"
-   ],
-   "date": "2026-10-22",
-   "time": "19:00:00",
-   "status": "onsale",
-   "venue": "Lee's Palace",
-   "city": "Toronto",
-   "url": "https://www.ticketweb.ca/event/icon-for-hire-elijah-lauren-lees-palace-tickets/14883443",
-   "source": "ticketmaster"
-  },
   {
    "id": "tm-177Zv0G658v1VzJ",
    "title": "Periphery - A Pale White Dot Tour",

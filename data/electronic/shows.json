@@ -1,47 +1,7 @@
 {
- "updated": "2026-10-19T16:44:27+00:00",
- "artist_count": 2790,
+ "updated": "2026-10-26T16:24:43+00:00",
+ "artist_count": 2791,
  "shows": [
-  {
-   "id": "tm-177Zv0G65247Nfx",
-   "title": "JOHN SUMMIT - CTRL ESCAPE ARENA TOUR",
-   "artists": [
-    "Alok",
-    "John Summit"
-   ],
-   "lineup": [
-    "John Summit",
-    "Alok",
-    "Dansyn"
-   ],
-   "date": "2026-10-24",
-   "time": "19:00:00",
-   "status": "onsale",
-   "venue": "TD Coliseum",
-   "city": "Hamilton",
-   "url": "https://www.ticketmaster.ca/john-summit-ctrl-escape-arena-tour-hamilton-ontario-10-24-2026/event/100064B3D5123522",
-   "source": "ticketmaster"
-  },
-  {
-   "id": "tm-177Zv0G65CtmBSJ",
-   "title": "JOHN SUMMIT - CTRL ESCAPE ARENA TOUR",
-   "artists": [
-    "Alok",
-    "John Summit"
-   ],
-   "lineup": [
-    "John Summit",
-    "Alok",
-    "Jackie Hollander"
-   ],
-   "date": "2026-10-25",
-   "time": "19:00:00",
-   "status": "onsale",
-   "venue": "Scotiabank Arena",
-   "city": "Toronto",
-   "url": "https://www.ticketmaster.ca/john-summit-ctrl-escape-arena-tour-toronto-ontario-10-25-2026/event/100064B3A9BBACE6",
-   "source": "ticketmaster"
-  },
   {
    "id": "tm-rZ7HnEZ1A4ZbAK",
    "title": "COSMIC GATE",
@@ -113,23 +73,6 @@
    "source": "ticketmaster"
   },
   {
-   "id": "tm-rZ7HnEZ1Af16AV",
-   "title": "ARTBAT",
-   "artists": [
-    "ARTBAT"
-   ],
-   "lineup": [
-    "Artbat"
-   ],
-   "date": "2026-11-06",
-   "time": "22:00:00",
-   "status": "onsale",
-   "venue": "REBEL",
-   "city": "Toronto",
-   "url": "https://www.ticketweb.ca/event/artbat-rebel-tickets/14287174",
-   "source": "ticketmaster"
-  },
-  {
    "id": "tm-rZ7HnEZ1A4vk4N",
    "title": "MATT SASSARI",
    "artists": [
@@ -144,6 +87,23 @@
    "venue": "DPRTMNT",
    "city": "Toronto",
    "url": "https://www.ticketweb.ca/event/matt-sassari-dprtmnt-tickets/15046563",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-rZ7HnEZ1Af16AV",
+   "title": "ARTBAT",
+   "artists": [
+    "ARTBAT"
+   ],
+   "lineup": [
+    "Artbat"
+   ],
+   "date": "2026-11-06",
+   "time": "23:00:00",
+   "status": "onsale",
+   "venue": "REBEL",
+   "city": "Toronto",
+   "url": "https://www.ticketweb.ca/event/artbat-rebel-tickets/14287174",
    "source": "ticketmaster"
   },
   {
@@ -322,7 +282,8 @@
     "Amtrac"
    ],
    "lineup": [
-    "Amtrac"
+    "Amtrac",
+    "R8YZ"
    ],
    "date": "2026-12-19",
    "time": "22:00:00",
@@ -379,7 +340,7 @@
    ],
    "date": "2027-02-12",
    "time": "20:00:00",
-   "status": "offsale",
+   "status": "onsale",
    "venue": "History Toronto",
    "city": "Toronto",
    "url": "https://www.ticketmaster.ca/riordan-presents-remapped-toronto-toronto-ontario-02-12-2027/event/10006547266DD665",
@@ -403,6 +364,23 @@
    "source": "ticketmaster"
   },
   {
+   "id": "tm-rZ7HnEZ1AfCAff",
+   "title": "D.O.D",
+   "artists": [
+    "D.O.D"
+   ],
+   "lineup": [
+    "D.O.D"
+   ],
+   "date": "2027-03-12",
+   "time": "22:00:00",
+   "status": "onsale",
+   "venue": "REBEL",
+   "city": "Toronto",
+   "url": "https://www.ticketweb.ca/event/dod-rebel-tickets/14385514",
+   "source": "ticketmaster"
+  },
+  {
    "id": "tm-1A8Zk4FGkeVlXcB",
    "title": "Calvin Harris - North America Tour",
    "artists": [
@@ -413,7 +391,7 @@
    ],
    "date": "2027-04-12",
    "time": "20:00:00",
-   "status": "offsale",
+   "status": "onsale",
    "venue": "Scotiabank Arena",
    "city": "Toronto",
    "url": "https://www.ticketmaster.ca/calvin-harris-north-america-tour-toronto-ontario-04-12-2027/event/10006548B4AFEB7A",
@@ -430,7 +408,7 @@
    ],
    "date": "2027-04-17",
    "time": "20:00:00",
-   "status": "offsale",
+   "status": "onsale",
    "venue": "TD Coliseum",
    "city": "Hamilton",
    "url": "https://www.ticketmaster.ca/calvin-harris-north-america-tour-hamilton-ontario-04-17-2027/event/10006549CB383A9F",
