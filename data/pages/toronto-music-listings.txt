@@ -4,14 +4,14 @@ Toronto Music Listings ·
 Toronto Live Music Events
 Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆
 Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆
-Updated Oct 26 2026
+Updated Nov 02 2026
 Open main menu
 T
 Toronto Music Listings
 Events
 Venues
 About
-Updated Oct 26 2026
+Updated Nov 02 2026
 Submit Event
 Events
 Venues
@@ -30,9 +30,9 @@ Venues
 All venues
 Adelaide Hall
 Annabel's Music Hall
-Arraymusic
 Bambi's
 Betty Oliphant Theatre
+Bevy
 Black Swan Tavern
 Bovine Sex Club
 BSMT 254
@@ -51,11 +51,11 @@ Drom Taberna
 El Mocambo
 Free Times Cafe
 Function Bar
-Fusilli Ristorante
 Great Canadian Casino Resort Toronto
 Grossman's Tavern
 Ground Control
 Handlebar
+Harbourfront Centre
 Hard Luck Bar
 Heliconian Club
 History
@@ -65,7 +65,7 @@ Junction Underground
 Koerner Hall
 Lee's Palace
 Linsmore Tavern
-Low Bar
+Lions & Sun Bar & Lounge
 Massey Hall
 Mazzoleni Concert Hall
 Meridian Arts Centre
@@ -78,14 +78,12 @@ Rhythm
 Rivoli
 Rogers Centre
 Rogers Stadium
-Rosario's
 Roy Thomson Hall
 Sauce on the Danforth
 Scotiabank Arena
 Sneaky Dee's
 Standard Time
 St. Lawrence Centre for the Arts
-Story Toronto
 Supermarket
 Super Wonder Gallery
 Tapestry
@@ -128,9 +126,9 @@ Filters
 Venues
 Adelaide Hall
 Annabel's Music Hall
-Arraymusic
 Bambi's
 Betty Oliphant Theatre
+Bevy
 Black Swan Tavern
 Bovine Sex Club
 BSMT 254
@@ -149,11 +147,11 @@ Drom Taberna
 El Mocambo
 Free Times Cafe
 Function Bar
-Fusilli Ristorante
 Great Canadian Casino Resort Toronto
 Grossman's Tavern
 Ground Control
 Handlebar
+Harbourfront Centre
 Hard Luck Bar
 Heliconian Club
 History
@@ -163,7 +161,7 @@ Junction Underground
 Koerner Hall
 Lee's Palace
 Linsmore Tavern
-Low Bar
+Lions & Sun Bar & Lounge
 Massey Hall
 Mazzoleni Concert Hall
 Meridian Arts Centre
@@ -176,14 +174,12 @@ Rhythm
 Rivoli
 Rogers Centre
 Rogers Stadium
-Rosario's
 Roy Thomson Hall
 Sauce on the Danforth
 Scotiabank Arena
 Sneaky Dee's
 Standard Time
 St. Lawrence Centre for the Arts
-Story Toronto
 Supermarket
 Super Wonder Gallery
 Tapestry

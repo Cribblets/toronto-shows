@@ -1,67 +1,7 @@
 {
- "updated": "2026-10-26T16:24:43+00:00",
- "artist_count": 433,
+ "updated": "2026-11-02T18:17:30+00:00",
+ "artist_count": 434,
  "shows": [
-  {
-   "id": "tm-177Zv0G658v1VzJ",
-   "title": "Periphery - A Pale White Dot Tour",
-   "artists": [
-    "Periphery"
-   ],
-   "lineup": [
-    "Periphery",
-    "Ne Obliviscaris",
-    "Greyhaven",
-    "Ando San"
-   ],
-   "date": "2026-10-26",
-   "time": "17:30:00",
-   "status": "onsale",
-   "venue": "History Toronto",
-   "city": "Toronto",
-   "url": "https://www.ticketmaster.ca/periphery-a-pale-white-dot-tour-toronto-ontario-10-26-2026/event/100064B4012B4E26",
-   "source": "ticketmaster"
-  },
-  {
-   "id": "tm-177Zv0G61TuXH0k",
-   "title": "Arch Enemy & The Black Dahlia Murder - Wrath Across North America 2026",
-   "artists": [
-    "Arch Enemy"
-   ],
-   "lineup": [
-    "Arch Enemy",
-    "The Black Dahlia Murder",
-    "Septicflesh",
-    "Crypta",
-    "Thrown Into Exile"
-   ],
-   "date": "2026-11-01",
-   "time": "17:00:00",
-   "status": "onsale",
-   "venue": "The Danforth Music Hall",
-   "city": "Toronto",
-   "url": "https://www.ticketmaster.ca/arch-enemy-the-black-dahlia-murder-toronto-ontario-11-01-2026/event/100064AFCDFBC906",
-   "source": "ticketmaster"
-  },
-  {
-   "id": "tm-177Zv0G6GwdVb1R",
-   "title": "Sleeping With Sirens: An Ending In Itself Tour",
-   "artists": [
-    "Rain City Drive"
-   ],
-   "lineup": [
-    "Sleeping With Sirens",
-    "Rain City Drive",
-    "Shyeye"
-   ],
-   "date": "2026-11-01",
-   "time": "18:00:00",
-   "status": "onsale",
-   "venue": "History Toronto",
-   "city": "Toronto",
-   "url": "https://www.ticketmaster.ca/sleeping-with-sirens-an-ending-in-toronto-ontario-11-01-2026/event/100064CC83D182AF",
-   "source": "ticketmaster"
-  },
   {
    "id": "tm-rZ7HnEZ1A4Zbjd",
    "title": "Halocene",

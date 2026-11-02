@@ -1,60 +1,7 @@
 {
- "updated": "2026-10-26T16:24:43+00:00",
+ "updated": "2026-11-02T18:17:31+00:00",
  "artist_count": 2791,
  "shows": [
-  {
-   "id": "tm-rZ7HnEZ1A4ZbAK",
-   "title": "COSMIC GATE",
-   "artists": [
-    "Cosmic Gate"
-   ],
-   "lineup": [
-    "Cosmic Gate"
-   ],
-   "date": "2026-10-30",
-   "time": "22:30:00",
-   "status": "onsale",
-   "venue": "DPRTMNT",
-   "city": "Toronto",
-   "url": "https://www.ticketweb.ca/event/cosmic-gate-dprtmnt-tickets/15018153",
-   "source": "ticketmaster"
-  },
-  {
-   "id": "tm-rZ7HnEZ1Af1bF0",
-   "title": "Ozmozis Halloween",
-   "artists": [
-    "Gabriel & Dresden",
-    "Super8 & Tab"
-   ],
-   "lineup": [
-    "Gabriel & Dresden",
-    "Super8 and Tab"
-   ],
-   "date": "2026-10-31",
-   "time": "16:00:00",
-   "status": "onsale",
-   "venue": "Evergreen Brickworks",
-   "city": "Toronto",
-   "url": "https://www.ticketweb.ca/event/ozmozis-halloween-evergreen-brickworks-tickets/14298224",
-   "source": "ticketmaster"
-  },
-  {
-   "id": "tm-rZ7HnEZ1AfG8q7",
-   "title": "KASKADE",
-   "artists": [
-    "Kaskade"
-   ],
-   "lineup": [
-    "Kaskade"
-   ],
-   "date": "2026-10-31",
-   "time": "22:00:00",
-   "status": "onsale",
-   "venue": "REBEL",
-   "city": "Toronto",
-   "url": "https://www.ticketweb.ca/event/kaskade-rebel-tickets/14310744",
-   "source": "ticketmaster"
-  },
   {
    "id": "tm-rZ7HnEZ1Af1baV",
    "title": "Jody Wisternoff",
@@ -311,6 +258,23 @@
    "source": "ticketmaster"
   },
   {
+   "id": "tm-rZ7HnEZ1Af8e1f",
+   "title": "Odd Mob | The Official Afterparty",
+   "artists": [
+    "Odd Mob"
+   ],
+   "lineup": [
+    "Odd Mob"
+   ],
+   "date": "2026-12-30",
+   "time": "22:00:00",
+   "status": "onsale",
+   "venue": "CODA",
+   "city": "Toronto",
+   "url": "https://www.ticketweb.ca/event/odd-mob-the-official-coda-tickets/14402294",
+   "source": "ticketmaster"
+  },
+  {
    "id": "tm-1A8ZkfIGkdz8AOr",
    "title": "La Roux - The Old Flames Tour",
    "artists": [
@@ -361,6 +325,23 @@
    "venue": "REBEL",
    "city": "Toronto",
    "url": "https://www.ticketweb.ca/event/layton-giordani-rebel-tickets/14316154",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1AvZZ_4GkgWBxOe",
+   "title": "Two Lanes",
+   "artists": [
+    "TWO LANES"
+   ],
+   "lineup": [
+    "Two Lanes"
+   ],
+   "date": "2027-03-05",
+   "time": "19:00:00",
+   "status": "offsale",
+   "venue": "The Danforth Music Hall",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/two-lanes-toronto-ontario-03-05-2027/event/1000655D7DEA2802",
    "source": "ticketmaster"
   },
   {
