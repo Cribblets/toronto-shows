@@ -224,6 +224,10 @@
   "tracks": 12
  },
  {
+  "name": "Nora En Pure",
+  "tracks": 12
+ },
+ {
   "name": "Sylvester",
   "tracks": 12
  },
@@ -252,7 +256,7 @@
   "tracks": 11
  },
  {
-  "name": "Nora En Pure",
+  "name": "MK",
   "tracks": 11
  },
  {
@@ -273,10 +277,6 @@
  },
  {
   "name": "Goodboys",
-  "tracks": 10
- },
- {
-  "name": "MK",
   "tracks": 10
  },
  {
@@ -536,6 +536,10 @@
   "tracks": 6
  },
  {
+  "name": "Einmusik",
+  "tracks": 6
+ },
+ {
   "name": "Evelyn \"Champagne\" King",
   "tracks": 6
  },
@@ -545,6 +549,10 @@
  },
  {
   "name": "Ferry Corsten",
+  "tracks": 6
+ },
+ {
+  "name": "Frýnn",
   "tracks": 6
  },
  {
@@ -601,6 +609,10 @@
  },
  {
   "name": "Nu-La",
+  "tracks": 6
+ },
+ {
+  "name": "Paradoks",
   "tracks": 6
  },
  {
@@ -720,14 +732,6 @@
   "tracks": 5
  },
  {
-  "name": "Einmusik",
-  "tracks": 5
- },
- {
-  "name": "Frýnn",
-  "tracks": 5
- },
- {
   "name": "Hannah Wants",
   "tracks": 5
  },
@@ -793,10 +797,6 @@
  },
  {
   "name": "Oliver Heldens",
-  "tracks": 5
- },
- {
-  "name": "Paradoks",
   "tracks": 5
  },
  {
@@ -1220,6 +1220,10 @@
   "tracks": 3
  },
  {
+  "name": "Alande",
+  "tracks": 3
+ },
+ {
   "name": "Alex Breitling",
   "tracks": 3
  },
@@ -1277,6 +1281,10 @@
  },
  {
   "name": "Bobby D'Ambrosio",
+  "tracks": 3
+ },
+ {
+  "name": "Carlita",
   "tracks": 3
  },
  {
@@ -1452,6 +1460,10 @@
   "tracks": 3
  },
  {
+  "name": "Jack Emery",
+  "tracks": 3
+ },
+ {
   "name": "Jackie Moore",
   "tracks": 3
  },
@@ -1477,6 +1489,10 @@
  },
  {
   "name": "Jocelyn Brown",
+  "tracks": 3
+ },
+ {
+  "name": "John Lynx",
   "tracks": 3
  },
  {
@@ -1596,7 +1612,15 @@
   "tracks": 3
  },
  {
+  "name": "LUFS",
+  "tracks": 3
+ },
+ {
   "name": "Lynnic",
+  "tracks": 3
+ },
+ {
+  "name": "Malive",
   "tracks": 3
  },
  {
@@ -1924,10 +1948,6 @@
   "tracks": 2
  },
  {
-  "name": "Alande",
-  "tracks": 2
- },
- {
   "name": "Alar",
   "tracks": 2
  },
@@ -2133,10 +2153,6 @@
  },
  {
   "name": "Cara Melín",
-  "tracks": 2
- },
- {
-  "name": "Carlita",
   "tracks": 2
  },
  {
@@ -2608,10 +2624,6 @@
   "tracks": 2
  },
  {
-  "name": "Jack Emery",
-  "tracks": 2
- },
- {
   "name": "Jacques Renault",
   "tracks": 2
  },
@@ -2693,10 +2705,6 @@
  },
  {
   "name": "John Khan",
-  "tracks": 2
- },
- {
-  "name": "John Lynx",
   "tracks": 2
  },
  {
@@ -2884,10 +2892,6 @@
   "tracks": 2
  },
  {
-  "name": "LUFS",
-  "tracks": 2
- },
- {
   "name": "Luis Torres",
   "tracks": 2
  },
@@ -2909,10 +2913,6 @@
  },
  {
   "name": "Malachi",
-  "tracks": 2
- },
- {
-  "name": "Malive",
   "tracks": 2
  },
  {
@@ -3732,6 +3732,10 @@
   "tracks": 1
  },
  {
+  "name": "242 Echoes",
+  "tracks": 1
+ },
+ {
   "name": "2UP",
   "tracks": 1
  },
@@ -4221,6 +4225,10 @@
  },
  {
   "name": "APEXAPE",
+  "tracks": 1
+ },
+ {
+  "name": "Aplexo",
   "tracks": 1
  },
  {
@@ -5196,6 +5204,10 @@
   "tracks": 1
  },
  {
+  "name": "Coulson",
+  "tracks": 1
+ },
+ {
   "name": "Craig C",
   "tracks": 1
  },
@@ -5369,6 +5381,10 @@
  },
  {
   "name": "Danny May",
+  "tracks": 1
+ },
+ {
+  "name": "Dantiez",
   "tracks": 1
  },
  {
@@ -7004,6 +7020,10 @@
   "tracks": 1
  },
  {
+  "name": "jasper.wav",
+  "tracks": 1
+ },
+ {
   "name": "Jawora",
   "tracks": 1
  },
@@ -7360,6 +7380,10 @@
   "tracks": 1
  },
  {
+  "name": "Kareen Lomax",
+  "tracks": 1
+ },
+ {
   "name": "Karen Daughtry",
   "tracks": 1
  },
@@ -7453,6 +7477,10 @@
  },
  {
   "name": "Kevin McKay",
+  "tracks": 1
+ },
+ {
+  "name": "Kevin Saunderson",
   "tracks": 1
  },
  {
@@ -9292,6 +9320,10 @@
   "tracks": 1
  },
  {
+  "name": "Rae Sada",
+  "tracks": 1
+ },
+ {
   "name": "Rag'n'Bone Man",
   "tracks": 1
  },
@@ -9588,6 +9620,10 @@
   "tracks": 1
  },
  {
+  "name": "SAFARIS",
+  "tracks": 1
+ },
+ {
   "name": "Sage The Gemini",
   "tracks": 1
  },
@@ -9869,6 +9905,10 @@
  },
  {
   "name": "Shaun Escoffery",
+  "tracks": 1
+ },
+ {
+  "name": "Shayan",
   "tracks": 1
  },
  {
