@@ -4,14 +4,14 @@ Toronto Music Listings ·
 Toronto Live Music Events
 Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆
 Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆
-Updated Nov 02 2026
+Updated Nov 09 2026
 Open main menu
 T
 Toronto Music Listings
 Events
 Venues
 About
-Updated Nov 02 2026
+Updated Nov 09 2026
 Submit Event
 Events
 Venues
@@ -28,8 +28,10 @@ from dozens of venues across the city, refreshed daily.
 Search events
 Venues
 All venues
+918 Bathurst Centre
 Adelaide Hall
 Annabel's Music Hall
+Arraymusic
 Bambi's
 Betty Oliphant Theatre
 Bevy
@@ -48,7 +50,9 @@ Dina's Tavern
 DPRTMNT
 Drake Underground
 Drom Taberna
+Drums N Flats
 El Mocambo
+Four Seasons Centre for the Performing Arts
 Free Times Cafe
 Function Bar
 Great Canadian Casino Resort Toronto
@@ -58,6 +62,7 @@ Handlebar
 Harbourfront Centre
 Hard Luck Bar
 Heliconian Club
+Hemingway's
 History
 Hugh's Room
 Jazz Bistro
@@ -70,6 +75,9 @@ Massey Hall
 Mazzoleni Concert Hall
 Meridian Arts Centre
 Meridian Hall
+Mossop's Social House
+MY HOUSE
+Noonan's Pub
 Queen Elizabeth Theatre
 RBC Amphitheatre
 Rebel
@@ -85,17 +93,19 @@ Sneaky Dee's
 Standard Time
 St. Lawrence Centre for the Arts
 Supermarket
-Super Wonder Gallery
 Tapestry
 TD Music Hall
 Temerty Theatre
 The Baby G
+The Bad Angel
+The Berczy Tavern
 The Cameron House
 The Citadel: Ross Centre for Dance
 The Comfort Zone
 The Concert Hall
 The Dance Cave
 The Danforth Music Hall
+The Duke Live
 The Emmet Ray
 The Garrison
 The Great Hall
@@ -124,8 +134,10 @@ By Venue
 Filters
 Filters
 Venues
+918 Bathurst Centre
 Adelaide Hall
 Annabel's Music Hall
+Arraymusic
 Bambi's
 Betty Oliphant Theatre
 Bevy
@@ -144,7 +156,9 @@ Dina's Tavern
 DPRTMNT
 Drake Underground
 Drom Taberna
+Drums N Flats
 El Mocambo
+Four Seasons Centre for the Performing Arts
 Free Times Cafe
 Function Bar
 Great Canadian Casino Resort Toronto
@@ -154,6 +168,7 @@ Handlebar
 Harbourfront Centre
 Hard Luck Bar
 Heliconian Club
+Hemingway's
 History
 Hugh's Room
 Jazz Bistro
@@ -166,6 +181,9 @@ Massey Hall
 Mazzoleni Concert Hall
 Meridian Arts Centre
 Meridian Hall
+Mossop's Social House
+MY HOUSE
+Noonan's Pub
 Queen Elizabeth Theatre
 RBC Amphitheatre
 Rebel
@@ -181,17 +199,19 @@ Sneaky Dee's
 Standard Time
 St. Lawrence Centre for the Arts
 Supermarket
-Super Wonder Gallery
 Tapestry
 TD Music Hall
 Temerty Theatre
 The Baby G
+The Bad Angel
+The Berczy Tavern
 The Cameron House
 The Citadel: Ross Centre for Dance
 The Comfort Zone
 The Concert Hall
 The Dance Cave
 The Danforth Music Hall
+The Duke Live
 The Emmet Ray
 The Garrison
 The Great Hall

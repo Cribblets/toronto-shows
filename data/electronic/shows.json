@@ -1,58 +1,7 @@
 {
- "updated": "2026-11-02T19:55:56+00:00",
- "artist_count": 2801,
+ "updated": "2026-11-09T20:20:21+00:00",
+ "artist_count": 2808,
  "shows": [
-  {
-   "id": "tm-rZ7HnEZ1Af1baV",
-   "title": "Jody Wisternoff",
-   "artists": [
-    "Jody Wisternoff"
-   ],
-   "lineup": [
-    "Jody Wisternoff"
-   ],
-   "date": "2026-11-06",
-   "time": "22:00:00",
-   "status": "onsale",
-   "venue": "Ozmozis",
-   "city": "Toronto",
-   "url": "https://www.ticketweb.ca/event/jody-wisternoff-ozmozis-tickets/14298274",
-   "source": "ticketmaster"
-  },
-  {
-   "id": "tm-rZ7HnEZ1A4vk4N",
-   "title": "MATT SASSARI",
-   "artists": [
-    "Matt Sassari"
-   ],
-   "lineup": [
-    "Matt Sassari"
-   ],
-   "date": "2026-11-06",
-   "time": "22:30:00",
-   "status": "onsale",
-   "venue": "DPRTMNT",
-   "city": "Toronto",
-   "url": "https://www.ticketweb.ca/event/matt-sassari-dprtmnt-tickets/15046563",
-   "source": "ticketmaster"
-  },
-  {
-   "id": "tm-rZ7HnEZ1Af16AV",
-   "title": "ARTBAT",
-   "artists": [
-    "ARTBAT"
-   ],
-   "lineup": [
-    "Artbat"
-   ],
-   "date": "2026-11-06",
-   "time": "23:00:00",
-   "status": "onsale",
-   "venue": "REBEL",
-   "city": "Toronto",
-   "url": "https://www.ticketweb.ca/event/artbat-rebel-tickets/14287174",
-   "source": "ticketmaster"
-  },
   {
    "id": "tm-1A8ZkffGkeSAX2k",
    "title": "Tobiahs",
@@ -107,23 +56,6 @@
    "source": "ticketmaster"
   },
   {
-   "id": "tm-1A8Zkf-GkdrpzIi",
-   "title": "Victoria Monét: Frequency Of Love Tour",
-   "artists": [
-    "Victoria Monét"
-   ],
-   "lineup": [
-    "Victoria Monét"
-   ],
-   "date": "2026-11-21",
-   "time": "20:00:00",
-   "status": "onsale",
-   "venue": "Coca-Cola Coliseum",
-   "city": "Toronto",
-   "url": "https://www.ticketmaster.ca/victoria-monet-frequency-of-love-tour-toronto-ontario-11-21-2026/event/10006521DE5B8A2C",
-   "source": "ticketmaster"
-  },
-  {
    "id": "tm-177Zv0G65ReCC6a",
    "title": "GRYFFIN",
    "artists": [
@@ -138,6 +70,23 @@
    "venue": "History Toronto",
    "city": "Toronto",
    "url": "https://www.ticketmaster.ca/gryffin-toronto-ontario-11-21-2026/event/100064BBC238E1C9",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zkf-GkdrpzIi",
+   "title": "Victoria Monét: Frequency Of Love Tour",
+   "artists": [
+    "Victoria Monét"
+   ],
+   "lineup": [
+    "Victoria Monét"
+   ],
+   "date": "2026-11-21",
+   "time": "21:00:00",
+   "status": "onsale",
+   "venue": "Coca-Cola Coliseum",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/victoria-monet-frequency-of-love-tour-toronto-ontario-11-21-2026/event/10006521DE5B8A2C",
    "source": "ticketmaster"
   },
   {
@@ -328,6 +277,142 @@
    "source": "ticketmaster"
   },
   {
+   "id": "tm-1A8Zk4xGkd2EFI1",
+   "title": "Michael Jackson  - Legacy",
+   "artists": [
+    "Michael Jackson"
+   ],
+   "lineup": [
+    "Michael Jackson  - Legacy"
+   ],
+   "date": "2027-02-24",
+   "time": "20:00:00",
+   "status": "onsale",
+   "venue": "The Elgin & Winter Garden Theatres",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/michael-jackson-legacy-toronto-ontario-02-24-2027/event/10006562CF9C8A0A",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zk4xGkd2IbIo",
+   "title": "Michael Jackson  - Legacy",
+   "artists": [
+    "Michael Jackson"
+   ],
+   "lineup": [
+    "Michael Jackson  - Legacy"
+   ],
+   "date": "2027-02-25",
+   "time": "20:00:00",
+   "status": "onsale",
+   "venue": "The Elgin & Winter Garden Theatres",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/michael-jackson-legacy-toronto-ontario-02-25-2027/event/10006562CFA18A11",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zk4xGkd2tIIb",
+   "title": "Michael Jackson  - Legacy",
+   "artists": [
+    "Michael Jackson"
+   ],
+   "lineup": [
+    "Michael Jackson  - Legacy"
+   ],
+   "date": "2027-02-26",
+   "time": "20:00:00",
+   "status": "onsale",
+   "venue": "The Elgin & Winter Garden Theatres",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/michael-jackson-legacy-toronto-ontario-02-26-2027/event/10006562CFA68A18",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zk4xGkd2nIIq",
+   "title": "Michael Jackson  - Legacy",
+   "artists": [
+    "Michael Jackson"
+   ],
+   "lineup": [
+    "Michael Jackson  - Legacy"
+   ],
+   "date": "2027-02-27",
+   "time": "14:00:00",
+   "status": "onsale",
+   "venue": "The Elgin & Winter Garden Theatres",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/michael-jackson-legacy-toronto-ontario-02-27-2027/event/10006562CFAA8A1D",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zk4xGkd2lIIN",
+   "title": "Michael Jackson  - Legacy",
+   "artists": [
+    "Michael Jackson"
+   ],
+   "lineup": [
+    "Michael Jackson  - Legacy"
+   ],
+   "date": "2027-02-27",
+   "time": "20:00:00",
+   "status": "onsale",
+   "venue": "The Elgin & Winter Garden Theatres",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/michael-jackson-legacy-toronto-ontario-02-27-2027/event/10006562CFAE8A23",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zk4xGkd2iztk",
+   "title": "Michael Jackson  - Legacy",
+   "artists": [
+    "Michael Jackson"
+   ],
+   "lineup": [
+    "Michael Jackson  - Legacy"
+   ],
+   "date": "2027-02-28",
+   "time": "14:00:00",
+   "status": "onsale",
+   "venue": "The Elgin & Winter Garden Theatres",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/michael-jackson-legacy-toronto-ontario-02-28-2027/event/10006562CFB38A46",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zk4xGkd2czt5",
+   "title": "Michael Jackson  - Legacy",
+   "artists": [
+    "Michael Jackson"
+   ],
+   "lineup": [
+    "Michael Jackson  - Legacy"
+   ],
+   "date": "2027-03-03",
+   "time": "20:00:00",
+   "status": "onsale",
+   "venue": "The Elgin & Winter Garden Theatres",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/michael-jackson-legacy-toronto-ontario-03-03-2027/event/10006562CFB78A4B",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zk4xGkd2RFtC",
+   "title": "Michael Jackson  - Legacy",
+   "artists": [
+    "Michael Jackson"
+   ],
+   "lineup": [
+    "Michael Jackson  - Legacy"
+   ],
+   "date": "2027-03-04",
+   "time": "20:00:00",
+   "status": "onsale",
+   "venue": "The Elgin & Winter Garden Theatres",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/michael-jackson-legacy-toronto-ontario-03-04-2027/event/10006562CFBC8A4E",
+   "source": "ticketmaster"
+  },
+  {
    "id": "tm-1AvZZ_4GkgWBxOe",
    "title": "Two Lanes",
    "artists": [
@@ -345,6 +430,142 @@
    "source": "ticketmaster"
   },
   {
+   "id": "tm-1A8Zk4xGkd2YFt3",
+   "title": "Michael Jackson  - Legacy",
+   "artists": [
+    "Michael Jackson"
+   ],
+   "lineup": [
+    "Michael Jackson  - Legacy"
+   ],
+   "date": "2027-03-05",
+   "time": "20:00:00",
+   "status": "onsale",
+   "venue": "The Elgin & Winter Garden Theatres",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/michael-jackson-legacy-toronto-ontario-03-05-2027/event/10006562CFC08A52",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zk4xGkd2sFtQ",
+   "title": "Michael Jackson  - Legacy",
+   "artists": [
+    "Michael Jackson"
+   ],
+   "lineup": [
+    "Michael Jackson  - Legacy"
+   ],
+   "date": "2027-03-06",
+   "time": "14:00:00",
+   "status": "onsale",
+   "venue": "The Elgin & Winter Garden Theatres",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/michael-jackson-legacy-toronto-ontario-03-06-2027/event/10006562CFC48A5A",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zk4xGkd2wbtr",
+   "title": "Michael Jackson  - Legacy",
+   "artists": [
+    "Michael Jackson"
+   ],
+   "lineup": [
+    "Michael Jackson  - Legacy"
+   ],
+   "date": "2027-03-06",
+   "time": "20:00:00",
+   "status": "onsale",
+   "venue": "The Elgin & Winter Garden Theatres",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/michael-jackson-legacy-toronto-ontario-03-06-2027/event/10006562CFC98A5E",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zk4xGkd2Sbtx",
+   "title": "Michael Jackson  - Legacy",
+   "artists": [
+    "Michael Jackson"
+   ],
+   "lineup": [
+    "Michael Jackson  - Legacy"
+   ],
+   "date": "2027-03-07",
+   "time": "14:00:00",
+   "status": "onsale",
+   "venue": "The Elgin & Winter Garden Theatres",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/michael-jackson-legacy-toronto-ontario-03-07-2027/event/10006562CFCD8A62",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zk4xGkd2VItI",
+   "title": "Michael Jackson  - Legacy",
+   "artists": [
+    "Michael Jackson"
+   ],
+   "lineup": [
+    "Michael Jackson  - Legacy"
+   ],
+   "date": "2027-03-10",
+   "time": "14:00:00",
+   "status": "onsale",
+   "venue": "The Elgin & Winter Garden Theatres",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/michael-jackson-legacy-toronto-ontario-03-10-2027/event/10006562CFD28A68",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zk4xGkd2gItc",
+   "title": "Michael Jackson  - Legacy",
+   "artists": [
+    "Michael Jackson"
+   ],
+   "lineup": [
+    "Michael Jackson  - Legacy"
+   ],
+   "date": "2027-03-10",
+   "time": "20:00:00",
+   "status": "onsale",
+   "venue": "The Elgin & Winter Garden Theatres",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/michael-jackson-legacy-toronto-ontario-03-10-2027/event/10006562CFD68A6D",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zk4xGkd2UItV",
+   "title": "Michael Jackson  - Legacy",
+   "artists": [
+    "Michael Jackson"
+   ],
+   "lineup": [
+    "Michael Jackson  - Legacy"
+   ],
+   "date": "2027-03-11",
+   "time": "20:00:00",
+   "status": "onsale",
+   "venue": "The Elgin & Winter Garden Theatres",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/michael-jackson-legacy-toronto-ontario-03-11-2027/event/10006562CFDA8A74",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zk4xGkd2MztW",
+   "title": "Michael Jackson  - Legacy",
+   "artists": [
+    "Michael Jackson"
+   ],
+   "lineup": [
+    "Michael Jackson  - Legacy"
+   ],
+   "date": "2027-03-12",
+   "time": "20:00:00",
+   "status": "onsale",
+   "venue": "The Elgin & Winter Garden Theatres",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/michael-jackson-legacy-toronto-ontario-03-12-2027/event/10006562CFDF8A7D",
+   "source": "ticketmaster"
+  },
+  {
    "id": "tm-rZ7HnEZ1AfCAff",
    "title": "D.O.D",
    "artists": [
@@ -359,6 +580,194 @@
    "venue": "REBEL",
    "city": "Toronto",
    "url": "https://www.ticketweb.ca/event/dod-rebel-tickets/14385514",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zk4xGkd2zzne",
+   "title": "Michael Jackson  - Legacy",
+   "artists": [
+    "Michael Jackson"
+   ],
+   "lineup": [
+    "Michael Jackson  - Legacy"
+   ],
+   "date": "2027-03-13",
+   "time": "14:00:00",
+   "status": "onsale",
+   "venue": "The Elgin & Winter Garden Theatres",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/michael-jackson-legacy-toronto-ontario-03-13-2027/event/10006562CFE38A82",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zk4xGkd2yznk",
+   "title": "Michael Jackson  - Legacy",
+   "artists": [
+    "Michael Jackson"
+   ],
+   "lineup": [
+    "Michael Jackson  - Legacy"
+   ],
+   "date": "2027-03-13",
+   "time": "20:00:00",
+   "status": "onsale",
+   "venue": "The Elgin & Winter Garden Theatres",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/michael-jackson-legacy-toronto-ontario-03-13-2027/event/10006562CFE78A86",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zk4xGkd2DFnu",
+   "title": "Michael Jackson  - Legacy",
+   "artists": [
+    "Michael Jackson"
+   ],
+   "lineup": [
+    "Michael Jackson  - Legacy"
+   ],
+   "date": "2027-03-14",
+   "time": "14:00:00",
+   "status": "onsale",
+   "venue": "The Elgin & Winter Garden Theatres",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/michael-jackson-legacy-toronto-ontario-03-14-2027/event/10006562CFEC8A8D",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zk4xGkd2HFno",
+   "title": "Michael Jackson  - Legacy",
+   "artists": [
+    "Michael Jackson"
+   ],
+   "lineup": [
+    "Michael Jackson  - Legacy"
+   ],
+   "date": "2027-03-17",
+   "time": "14:00:00",
+   "status": "onsale",
+   "venue": "The Elgin & Winter Garden Theatres",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/michael-jackson-legacy-toronto-ontario-03-17-2027/event/10006562CFF08A91",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zk4xGkd2WFnb",
+   "title": "Michael Jackson  - Legacy",
+   "artists": [
+    "Michael Jackson"
+   ],
+   "lineup": [
+    "Michael Jackson  - Legacy"
+   ],
+   "date": "2027-03-17",
+   "time": "20:00:00",
+   "status": "onsale",
+   "venue": "The Elgin & Winter Garden Theatres",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/michael-jackson-legacy-toronto-ontario-03-17-2027/event/10006562CFF48A98",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zk4xGkd2Xbnh",
+   "title": "Michael Jackson  - Legacy",
+   "artists": [
+    "Michael Jackson"
+   ],
+   "lineup": [
+    "Michael Jackson  - Legacy"
+   ],
+   "date": "2027-03-18",
+   "time": "20:00:00",
+   "status": "onsale",
+   "venue": "The Elgin & Winter Garden Theatres",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/michael-jackson-legacy-toronto-ontario-03-18-2027/event/10006562CFF98A9B",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zk4xGkd2TbnL",
+   "title": "Michael Jackson  - Legacy",
+   "artists": [
+    "Michael Jackson"
+   ],
+   "lineup": [
+    "Michael Jackson  - Legacy"
+   ],
+   "date": "2027-03-19",
+   "time": "20:00:00",
+   "status": "onsale",
+   "venue": "The Elgin & Winter Garden Theatres",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/michael-jackson-legacy-toronto-ontario-03-19-2027/event/10006562CFFD8A9F",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zk4xGkd8ZInR",
+   "title": "Michael Jackson  - Legacy",
+   "artists": [
+    "Michael Jackson"
+   ],
+   "lineup": [
+    "Michael Jackson  - Legacy"
+   ],
+   "date": "2027-03-20",
+   "time": "14:00:00",
+   "status": "onsale",
+   "venue": "The Elgin & Winter Garden Theatres",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/michael-jackson-legacy-toronto-ontario-03-20-2027/event/10006562D0028AAF",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zk4xGkd8vInV",
+   "title": "Michael Jackson  - Legacy",
+   "artists": [
+    "Michael Jackson"
+   ],
+   "lineup": [
+    "Michael Jackson  - Legacy"
+   ],
+   "date": "2027-03-20",
+   "time": "20:00:00",
+   "status": "onsale",
+   "venue": "The Elgin & Winter Garden Theatres",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/michael-jackson-legacy-toronto-ontario-03-20-2027/event/10006562D0068AB4",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zk4xGkd8eznW",
+   "title": "Michael Jackson  - Legacy",
+   "artists": [
+    "Michael Jackson"
+   ],
+   "lineup": [
+    "Michael Jackson  - Legacy"
+   ],
+   "date": "2027-03-21",
+   "time": "14:00:00",
+   "status": "onsale",
+   "venue": "The Elgin & Winter Garden Theatres",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/michael-jackson-legacy-toronto-ontario-03-21-2027/event/10006562D00B8ABD",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1AvZZ_4GkHJ4T6a",
+   "title": "ROYAL BLOOD: North America 2027",
+   "artists": [
+    "Royal Blood"
+   ],
+   "lineup": [
+    "Royal Blood",
+    "Bodega"
+   ],
+   "date": "2027-04-09",
+   "time": "19:00:00",
+   "status": "offsale",
+   "venue": "History Toronto",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/royal-blood-north-america-2027-toronto-ontario-04-09-2027/event/1000655F2657F1C9",
    "source": "ticketmaster"
   },
   {

@@ -4,12 +4,12 @@
   "tracks": 46
  },
  {
-  "name": "Nihil Young",
+  "name": "Dave 'Love' Lee",
   "tracks": 42
  },
  {
-  "name": "Dave 'Love' Lee",
-  "tracks": 41
+  "name": "Nihil Young",
+  "tracks": 42
  },
  {
   "name": "CAMELPHAT",
@@ -780,6 +780,10 @@
   "tracks": 5
  },
  {
+  "name": "Michael Canitrot",
+  "tracks": 5
+ },
+ {
   "name": "Morgin Madison",
   "tracks": 5
  },
@@ -1093,10 +1097,6 @@
  },
  {
   "name": "Matt Fax",
-  "tracks": 4
- },
- {
-  "name": "Michael Canitrot",
   "tracks": 4
  },
  {
@@ -2084,6 +2084,10 @@
   "tracks": 2
  },
  {
+  "name": "Bluey Robinson",
+  "tracks": 2
+ },
+ {
   "name": "Blush'ko",
   "tracks": 2
  },
@@ -2761,6 +2765,10 @@
  },
  {
   "name": "Kelli-Leigh",
+  "tracks": 2
+ },
+ {
+  "name": "Khalid",
   "tracks": 2
  },
  {
@@ -3497,6 +3505,10 @@
  },
  {
   "name": "Sybil",
+  "tracks": 2
+ },
+ {
+  "name": "Sébastien Léger",
   "tracks": 2
  },
  {
@@ -4668,10 +4680,6 @@
   "tracks": 1
  },
  {
-  "name": "Bluey Robinson",
-  "tracks": 1
- },
- {
   "name": "Bobby",
   "tracks": 1
  },
@@ -5801,6 +5809,10 @@
  },
  {
   "name": "Ed Sheeran",
+  "tracks": 1
+ },
+ {
+  "name": "Eddie Cheeba",
   "tracks": 1
  },
  {
@@ -7488,10 +7500,6 @@
   "tracks": 1
  },
  {
-  "name": "Khalid",
-  "tracks": 1
- },
- {
   "name": "Kheal",
   "tracks": 1
  },
@@ -7908,6 +7916,10 @@
   "tracks": 1
  },
  {
+  "name": "Lost Miracle",
+  "tracks": 1
+ },
+ {
   "name": "Loui & Scibi",
   "tracks": 1
  },
@@ -8125,6 +8137,10 @@
  },
  {
   "name": "MAQman",
+  "tracks": 1
+ },
+ {
+  "name": "Marc Cotterell",
   "tracks": 1
  },
  {
@@ -8488,6 +8504,10 @@
   "tracks": 1
  },
  {
+  "name": "Mike Risk",
+  "tracks": 1
+ },
+ {
   "name": "Mike Swigunski",
   "tracks": 1
  },
@@ -8605,6 +8625,10 @@
  },
  {
   "name": "Moonkids",
+  "tracks": 1
+ },
+ {
+  "name": "Moonphazes",
   "tracks": 1
  },
  {
@@ -10372,10 +10396,6 @@
   "tracks": 1
  },
  {
-  "name": "Sébastien Léger",
-  "tracks": 1
- },
- {
   "name": "Sāde Frame",
   "tracks": 1
  },
@@ -11084,6 +11104,10 @@
   "tracks": 1
  },
  {
+  "name": "Yana Mann",
+  "tracks": 1
+ },
+ {
   "name": "Yara Yard",
   "tracks": 1
  },
@@ -11157,6 +11181,10 @@
  },
  {
   "name": "ZENØN",
+  "tracks": 1
+ },
+ {
+  "name": "Zerb",
   "tracks": 1
  },
  {
