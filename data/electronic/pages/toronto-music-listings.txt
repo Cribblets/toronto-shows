@@ -4,14 +4,14 @@ Toronto Music Listings ·
 Toronto Live Music Events
 Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆
 Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆
-Updated Nov 09 2026
+Updated Nov 16 2026
 Open main menu
 T
 Toronto Music Listings
 Events
 Venues
 About
-Updated Nov 09 2026
+Updated Nov 16 2026
 Submit Event
 Events
 Venues
@@ -31,6 +31,7 @@ All venues
 918 Bathurst Centre
 Adelaide Hall
 Annabel's Music Hall
+Annette Studios
 Arraymusic
 Bambi's
 Betty Oliphant Theatre
@@ -42,7 +43,9 @@ Burdock Music Hall
 Cassette
 Castro's Lounge
 CBC Glenn Gould Studio
+Central Bar & Grill
 C'est What
+Christ Church Deer Park
 Coca Cola Coliseum
 CODA
 CONTXT by Trane
@@ -63,6 +66,7 @@ Harbourfront Centre
 Hard Luck Bar
 Heliconian Club
 Hemingway's
+Hirut Cafe
 History
 Hugh's Room
 Jazz Bistro
@@ -71,6 +75,8 @@ Koerner Hall
 Lee's Palace
 Linsmore Tavern
 Lions & Sun Bar & Lounge
+Low Bar
+Lula Lounge
 Massey Hall
 Mazzoleni Concert Hall
 Meridian Arts Centre
@@ -78,6 +84,8 @@ Meridian Hall
 Mossop's Social House
 MY HOUSE
 Noonan's Pub
+Osler Records
+Primal Note Studios
 Queen Elizabeth Theatre
 RBC Amphitheatre
 Rebel
@@ -89,9 +97,11 @@ Rogers Stadium
 Roy Thomson Hall
 Sauce on the Danforth
 Scotiabank Arena
+See-Scape
 Sneaky Dee's
 Standard Time
 St. Lawrence Centre for the Arts
+Story Toronto
 Supermarket
 Tapestry
 TD Music Hall
@@ -137,6 +147,7 @@ Venues
 918 Bathurst Centre
 Adelaide Hall
 Annabel's Music Hall
+Annette Studios
 Arraymusic
 Bambi's
 Betty Oliphant Theatre
@@ -148,7 +159,9 @@ Burdock Music Hall
 Cassette
 Castro's Lounge
 CBC Glenn Gould Studio
+Central Bar & Grill
 C'est What
+Christ Church Deer Park
 Coca Cola Coliseum
 CODA
 CONTXT by Trane
@@ -169,6 +182,7 @@ Harbourfront Centre
 Hard Luck Bar
 Heliconian Club
 Hemingway's
+Hirut Cafe
 History
 Hugh's Room
 Jazz Bistro
@@ -177,6 +191,8 @@ Koerner Hall
 Lee's Palace
 Linsmore Tavern
 Lions & Sun Bar & Lounge
+Low Bar
+Lula Lounge
 Massey Hall
 Mazzoleni Concert Hall
 Meridian Arts Centre
@@ -184,6 +200,8 @@ Meridian Hall
 Mossop's Social House
 MY HOUSE
 Noonan's Pub
+Osler Records
+Primal Note Studios
 Queen Elizabeth Theatre
 RBC Amphitheatre
 Rebel
@@ -195,9 +213,11 @@ Rogers Stadium
 Roy Thomson Hall
 Sauce on the Danforth
 Scotiabank Arena
+See-Scape
 Sneaky Dee's
 Standard Time
 St. Lawrence Centre for the Arts
+Story Toronto
 Supermarket
 Tapestry
 TD Music Hall

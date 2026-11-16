@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T20:20:21+00:00",
+ "updated": "2026-11-16T19:58:05+00:00",
  "artist_count": 434,
  "shows": [
   {
@@ -61,26 +61,6 @@
    "venue": "The Danforth Music Hall",
    "city": "Toronto",
    "url": "https://www.ticketmaster.ca/catch-your-breath-not-broken-enough-toronto-ontario-11-19-2026/event/100064BAD77E4385",
-   "source": "ticketmaster"
-  },
-  {
-   "id": "tm-1AvZZ_8GkBlKihc",
-   "title": "Underoath - Define the Great Line 20th Anniversary Tour",
-   "artists": [
-    "Underoath"
-   ],
-   "lineup": [
-    "Underoath",
-    "August Burns Red",
-    "Atreyu",
-    "Emery"
-   ],
-   "date": "2026-11-27",
-   "time": "18:30:00",
-   "status": "onsale",
-   "venue": "The Theatre at Great Canadian Toronto",
-   "city": "Toronto",
-   "url": "https://www.ticketmaster.ca/underoath-define-the-great-line-20th-toronto-ontario-11-27-2026/event/1000650EAB4EC6ED",
    "source": "ticketmaster"
   },
   {
@@ -284,7 +264,7 @@
    ],
    "date": "2027-03-13",
    "time": "18:30:00",
-   "status": "offsale",
+   "status": "onsale",
    "venue": "History Toronto",
    "city": "Toronto",
    "url": "https://www.ticketmaster.ca/silversun-pickups-tenterhooks-tour-toronto-ontario-03-13-2027/event/10006564AD669F0E",
@@ -313,6 +293,30 @@
    "source": "ticketmaster"
   },
   {
+   "id": "tm-1AvZZ_4GkW50wKX",
+   "title": "The Funeral Portrait - A Hex On The Nation",
+   "artists": [
+    "Archers",
+    "FKA Rayne",
+    "If Not For Me",
+    "The Funeral Portrait"
+   ],
+   "lineup": [
+    "The Funeral Portrait",
+    "Archers",
+    "Creeper",
+    "If Not For Me",
+    "FKA Rayne"
+   ],
+   "date": "2027-03-15",
+   "time": "17:30:00",
+   "status": "onsale",
+   "venue": "The Opera House",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/the-funeral-portrait-a-hex-on-toronto-ontario-03-15-2027/event/1000655F4B9324FE",
+   "source": "ticketmaster"
+  },
+  {
    "id": "tm-1AvZZ_4GkHJ4T6a",
    "title": "ROYAL BLOOD: North America 2027",
    "artists": [
@@ -324,10 +328,29 @@
    ],
    "date": "2027-04-09",
    "time": "19:00:00",
-   "status": "offsale",
+   "status": "onsale",
    "venue": "History Toronto",
    "city": "Toronto",
    "url": "https://www.ticketmaster.ca/royal-blood-north-america-2027-toronto-ontario-04-09-2027/event/1000655F2657F1C9",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zk40GkdvkhsE",
+   "title": "SiM - HOOMAN AFTER ALL WORLD TOUR",
+   "artists": [
+    "SiM"
+   ],
+   "lineup": [
+    "SiM",
+    "aurorawave",
+    "Within Destruction"
+   ],
+   "date": "2027-05-01",
+   "time": "18:30:00",
+   "status": "onsale",
+   "venue": "The Phoenix Concert Theatre",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/sim-hooman-after-all-world-tour-toronto-ontario-05-01-2027/event/10006564C119BC67",
    "source": "ticketmaster"
   },
   {
