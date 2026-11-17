@@ -12,5 +12,33 @@
     "url": "https://www.dprtmnt.com/",
     "source": "claude",
     "found": "2026-10-27"
+  },
+  {
+    "id": "claude-essel-2026-12-05",
+    "title": "RISE: ESSEL [Toolroom]",
+    "artists": [
+      "ESSEL"
+    ],
+    "date": "2026-12-05",
+    "time": "22:00:00",
+    "venue": "Wiggle Room",
+    "city": "Toronto",
+    "url": "https://wiggleroomtoronto.com/event/rise-essel-toolroom/",
+    "source": "claude",
+    "found": "2026-11-17"
+  },
+  {
+    "id": "claude-mark-farina-2026-12-13",
+    "title": "Sunday SerVice: MARK FARINA [Mushroom Jazz to House Extended Set]",
+    "artists": [
+      "Mark Farina"
+    ],
+    "date": "2026-12-13",
+    "time": "20:00:00",
+    "venue": "Wiggle Room",
+    "city": "Toronto",
+    "url": "https://wiggleroomtoronto.com/event/sunday-service-mark-farina-mushroom-jazz-to-house-extended-set-3/",
+    "source": "claude",
+    "found": "2026-11-17"
   }
 ]
