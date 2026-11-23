@@ -4,14 +4,14 @@ Toronto Music Listings ·
 Toronto Live Music Events
 Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆
 Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆ Toronto Live Music ◆ Concerts ◆ Club Shows ◆ DIY ◆ Jazz ◆ Punk ◆ Electronic ◆ Folk ◆ Updated Daily ◆
-Updated Nov 16 2026
+Updated Nov 23 2026
 Open main menu
 T
 Toronto Music Listings
 Events
 Venues
 About
-Updated Nov 16 2026
+Updated Nov 23 2026
 Submit Event
 Events
 Venues
@@ -34,7 +34,6 @@ Annabel's Music Hall
 Annette Studios
 Arraymusic
 Bambi's
-Betty Oliphant Theatre
 Bevy
 Black Swan Tavern
 Bovine Sex Club
@@ -43,7 +42,7 @@ Burdock Music Hall
 Cassette
 Castro's Lounge
 CBC Glenn Gould Studio
-Central Bar & Grill
+CBC Toronto Broadcast Centre
 C'est What
 Christ Church Deer Park
 Coca Cola Coliseum
@@ -52,7 +51,6 @@ CONTXT by Trane
 Dina's Tavern
 DPRTMNT
 Drake Underground
-Drom Taberna
 Drums N Flats
 El Mocambo
 Four Seasons Centre for the Performing Arts
@@ -64,11 +62,11 @@ Ground Control
 Handlebar
 Harbourfront Centre
 Hard Luck Bar
-Heliconian Club
 Hemingway's
 Hirut Cafe
 History
 Hugh's Room
+Humber Cultural Hub
 Jazz Bistro
 Junction Underground
 Koerner Hall
@@ -83,6 +81,7 @@ Meridian Arts Centre
 Meridian Hall
 Mossop's Social House
 MY HOUSE
+No No Room
 Noonan's Pub
 Osler Records
 Primal Note Studios
@@ -97,7 +96,6 @@ Rogers Stadium
 Roy Thomson Hall
 Sauce on the Danforth
 Scotiabank Arena
-See-Scape
 Sneaky Dee's
 Standard Time
 St. Lawrence Centre for the Arts
@@ -122,7 +120,6 @@ The Great Hall
 The Horseshoe Tavern
 The Mod Club
 The Monarch Tavern
-The Only Cafe
 The Opera House
 The Painted Lady
 The Phoenix Concert Theatre
@@ -130,6 +127,7 @@ The Pilot
 The Piston
 The Rex
 The Rockpile
+The Root Down
 The Sound Garage
 Timothy's Pub
 Tranzac
@@ -150,7 +148,6 @@ Annabel's Music Hall
 Annette Studios
 Arraymusic
 Bambi's
-Betty Oliphant Theatre
 Bevy
 Black Swan Tavern
 Bovine Sex Club
@@ -159,7 +156,7 @@ Burdock Music Hall
 Cassette
 Castro's Lounge
 CBC Glenn Gould Studio
-Central Bar & Grill
+CBC Toronto Broadcast Centre
 C'est What
 Christ Church Deer Park
 Coca Cola Coliseum
@@ -168,7 +165,6 @@ CONTXT by Trane
 Dina's Tavern
 DPRTMNT
 Drake Underground
-Drom Taberna
 Drums N Flats
 El Mocambo
 Four Seasons Centre for the Performing Arts
@@ -180,11 +176,11 @@ Ground Control
 Handlebar
 Harbourfront Centre
 Hard Luck Bar
-Heliconian Club
 Hemingway's
 Hirut Cafe
 History
 Hugh's Room
+Humber Cultural Hub
 Jazz Bistro
 Junction Underground
 Koerner Hall
@@ -199,6 +195,7 @@ Meridian Arts Centre
 Meridian Hall
 Mossop's Social House
 MY HOUSE
+No No Room
 Noonan's Pub
 Osler Records
 Primal Note Studios
@@ -213,7 +210,6 @@ Rogers Stadium
 Roy Thomson Hall
 Sauce on the Danforth
 Scotiabank Arena
-See-Scape
 Sneaky Dee's
 Standard Time
 St. Lawrence Centre for the Arts
@@ -238,7 +234,6 @@ The Great Hall
 The Horseshoe Tavern
 The Mod Club
 The Monarch Tavern
-The Only Cafe
 The Opera House
 The Painted Lady
 The Phoenix Concert Theatre
@@ -246,6 +241,7 @@ The Pilot
 The Piston
 The Rex
 The Rockpile
+The Root Down
 The Sound Garage
 Timothy's Pub
 Tranzac

@@ -17,7 +17,7 @@
  },
  {
   "name": "KREAM",
-  "tracks": 38
+  "tracks": 39
  },
  {
   "name": "Gorgon City",
@@ -124,12 +124,12 @@
   "tracks": 17
  },
  {
-  "name": "Michael Gray",
+  "name": "Hayden James",
   "tracks": 17
  },
  {
-  "name": "Hayden James",
-  "tracks": 16
+  "name": "Michael Gray",
+  "tracks": 17
  },
  {
   "name": "HAYLA",
@@ -740,6 +740,10 @@
   "tracks": 5
  },
  {
+  "name": "Jazzy",
+  "tracks": 5
+ },
+ {
   "name": "Jess Bays",
   "tracks": 5
  },
@@ -1024,15 +1028,15 @@
   "tracks": 4
  },
  {
+  "name": "ItsArius",
+  "tracks": 4
+ },
+ {
   "name": "JADED",
   "tracks": 4
  },
  {
   "name": "James French",
-  "tracks": 4
- },
- {
-  "name": "Jazzy",
   "tracks": 4
  },
  {
@@ -1077,6 +1081,10 @@
  },
  {
   "name": "Leo Wood",
+  "tracks": 4
+ },
+ {
+  "name": "Lynnic",
   "tracks": 4
  },
  {
@@ -1460,10 +1468,6 @@
   "tracks": 3
  },
  {
-  "name": "ItsArius",
-  "tracks": 3
- },
- {
   "name": "Jack Emery",
   "tracks": 3
  },
@@ -1613,10 +1617,6 @@
  },
  {
   "name": "LUFS",
-  "tracks": 3
- },
- {
-  "name": "Lynnic",
   "tracks": 3
  },
  {
@@ -4633,6 +4633,10 @@
  },
  {
   "name": "Birthday Boy",
+  "tracks": 1
+ },
+ {
+  "name": "BJOERN",
   "tracks": 1
  },
  {
@@ -7888,6 +7892,10 @@
   "tracks": 1
  },
  {
+  "name": "Loods",
+  "tracks": 1
+ },
+ {
   "name": "Look At You Records",
   "tracks": 1
  },
@@ -8621,6 +8629,10 @@
  },
  {
   "name": "Monte",
+  "tracks": 1
+ },
+ {
+  "name": "MONTE",
   "tracks": 1
  },
  {

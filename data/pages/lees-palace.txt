@@ -12,87 +12,6 @@ Booking
 FAQs
 Contact
 Upcoming Shows
-Knats w/ Luge & Diskarte
-Monday, November 16, 2026
-Door Time:
-Venue:
-Dance Cave
-19+
-$23.00
-TicketS
-Sold Out
-Too Many Zooz w/ Compost
-Wednesday, November 18, 2026
-Door Time:
-Venue:
-Lee's Palace
-19+
-$32.50
-TicketS
-Sold Out
-Lucy (Cooper B. Handy) w/ Cootie Catcher & Gods Wisdom
-Thursday, November 19, 2026
-Door Time:
-Venue:
-Dance Cave
-19+
-$27.50
-TicketS
-Sold Out
-Fox Stevenson X Mystery Skulls
-Thursday, November 19, 2026
-Door Time:
-Venue:
-Lee's Palace
-19+
-$35.00
-TicketS
-Sold Out
-Man Is Five, Mad Iris, Mellow Casualty and Hockey Academy
-Friday, November 20, 2026
-Door Time:
-Venue:
-Lee's Palace
-19+
-$11.00
-TicketS
-Sold Out
-Rave Cave
-Friday, November 20, 2026
-Door Time:
-Venue:
-Dance Cave
-19+
-$15.00
-TicketS
-Sold Out
-Yoi Toki w/ Saint Pepsi
-Saturday, November 21, 2026
-Door Time:
-Venue:
-Lee's Palace
-19+
-$20.00
-TicketS
-Sold Out
-Basht. w Gavin Mcleod & Lady Marge
-Sunday, November 22, 2026
-Door Time:
-Venue:
-Lee's Palace
-19+
-$20.00
-TicketS
-Sold Out
-XANNYWAXPARTY | Performances by JSKO, Kindapopping, Kennxdy, sm01 + special guests
-Sunday, November 22, 2026
-Door Time:
-Venue:
-Dance Cave
-19+
-$16.95
-TicketS
-Sold Out
 NOISE MACHINE Album Release Show - STACKS with Lia Pappas-Kemps and Lila Ravelle
 Wednesday, November 25, 2026
 Door Time:
@@ -146,7 +65,7 @@ Dance Cave
 19+
 TicketS
 Sold Out
-Colwnvis Presley w/ Cloven Path Ministies
+Clownvis Presley w/ Cloven Path Ministies
 Tuesday, December 1, 2026
 Door Time:
 Venue:
@@ -168,7 +87,7 @@ Mother Tongues' Rock 'n' Roll Runway with: Bodywash (MTL) and Uncaught ( in Prom
 Thursday, December 3, 2026
 Door Time:
 Venue:
-Lee's Palace
+Dance Cave
 19+
 $37.00
 TicketS
@@ -200,7 +119,7 @@ Lee's Palace
 $30.00
 TicketS
 Sold Out
-Proud To Be Canadian
+Proud To Be Canadian w/ Stephen Diego, Carina + More!
 Saturday, December 5, 2026
 Door Time:
 Venue:
@@ -227,13 +146,12 @@ Lee's Palace
 $30.00
 TicketS
 Sold Out
-Tim Polecat
-Friday, December 11, 2026
+School Night ft. sunncaat, Gritfall, Troy Snaterse & Next Week's Washing
+Thursday, December 10, 2026
 Door Time:
 Venue:
 Dance Cave
 19+
-$27.50
 TicketS
 Sold Out
 Shondi Festoon Feat. Born Ruffians
@@ -245,7 +163,7 @@ Lee's Palace
 $35.00
 TicketS
 Sold Out
-Mango Szn
+Mango Szn ft. Angelphroot, Mtooray & Nush
 Friday, December 11, 2026
 Door Time:
 Venue:
@@ -308,13 +226,30 @@ Lee's Palace
 $22.50
 TicketS
 Sold Out
-Discmen
+Discmen - 90s Cover Band
 Saturday, December 19, 2026
 Door Time:
 Venue:
 Lee's Palace
 19+
 $20.00
+TicketS
+Sold Out
+Christmas Under The Roof
+Saturday, December 26, 2026
+Door Time:
+Venue:
+Dance Cave
+19+
+$25.00
+TicketS
+Sold Out
+Harry Potter and The Toronto Rave
+Saturday, December 26, 2026
+Door Time:
+Venue:
+Lee's Palace
+19+
 TicketS
 Sold Out
 Glee Night
@@ -362,6 +297,15 @@ Dance Cave
 $27.50
 TicketS
 Sold Out
+Heated Rivalry Dance Party
+Friday, February 5, 2027
+Door Time:
+Venue:
+Lee's Palace
+19+
+$25.00
+TicketS
+Sold Out
 Jane's Party Avalanche Album Release Show
 Saturday, February 13, 2027
 Door Time:
@@ -398,6 +342,15 @@ Lee's Palace
 $30.00
 TicketS
 Sold Out
+Failboat & Jaymoji - The Stupid Simple Gameshow
+Thursday, March 4, 2027
+Door Time:
+Venue:
+Dance Cave
+All Ages
+$35.00
+TicketS
+Sold Out
 Roar
 Saturday, March 6, 2027
 Door Time:
@@ -407,6 +360,15 @@ All Ages
 $27.50
 TicketS
 Sold Out
+Islandman
+Tuesday, March 9, 2027
+Door Time:
+Venue:
+Dance Cave
+19+
+$25.00
+TicketS
+Sold Out
 Dogpark w/ Fai Laci
 Thursday, March 11, 2027
 Door Time:
@@ -414,6 +376,15 @@ Venue:
 Lee's Palace
 19+
 $24.50
+TicketS
+Sold Out
+TYR & Dynazty
+Sunday, March 14, 2027
+Door Time:
+Venue:
+Lee's Palace
+19+
+$38.50
 TicketS
 Sold Out
 Games We Play w/ Bears In Trees
@@ -459,6 +430,15 @@ Venue:
 Lee's Palace
 19+
 $27.50
+TicketS
+Sold Out
+Delta Goodrem
+Saturday, May 8, 2027
+Door Time:
+Venue:
+Lee's Palace
+19+
+$35.00
 TicketS
 Sold Out
 Prepare The Ground 2027
@@ -523,32 +503,32 @@ Just Announced
 NOISE MACHINE Album Release Show - STACKS with Lia Pappas-Kemps and Lila Ravelle
 November 25, 2026
 Learn More!
+TYR & Dynazty
+March 14, 2027
+Learn More!
+Harry Potter and The Toronto Rave
+December 26, 2026
+Learn More!
+Failboat & Jaymoji - The Stupid Simple Gameshow
+March 4, 2027
+Learn More!
+School Night ft. sunncaat, Gritfall, Troy Snaterse & Next Week's Washing
+December 10, 2026
+Learn More!
+Islandman
+March 9, 2027
+Learn More!
+Christmas Under The Roof
+December 26, 2026
+Learn More!
+Delta Goodrem
+May 8, 2027
+Learn More!
+Heated Rivalry Dance Party
+February 5, 2027
+Learn More!
 Tailgate
 December 18, 2026
-Learn More!
-Octavium / Guardians of Purgatory / Repartus
-November 26, 2026
-Learn More!
-Heavy Dirty Dance - A 21 Pilots Dance Party
-November 27, 2026
-Learn More!
-Roar
-March 6, 2027
-Learn More!
-Earth Tongue
-July 2, 2027
-Learn More!
-Discmen
-December 19, 2026
-Learn More!
-Can't Feel My Face - 2010's Dance Party
-January 30, 2027
-Learn More!
-Proud To Be Canadian
-December 5, 2026
-Learn More!
-Glee Night
-January 15, 2027
 Learn More!
 Local Ticket Outlets
 Rotate THis

@@ -1,68 +1,7 @@
 {
- "updated": "2026-11-16T19:58:05+00:00",
- "artist_count": 434,
+ "updated": "2026-11-23T21:51:42+00:00",
+ "artist_count": 439,
  "shows": [
-  {
-   "id": "tm-177Zv0G6G2_Ekqb",
-   "title": "WAGE WAR - EMERGENCY BROADCAST TOUR",
-   "artists": [
-    "Wage War",
-    "We Came As Romans"
-   ],
-   "lineup": [
-    "Wage War",
-    "We Came As Romans",
-    "Varials",
-    "Cane Hill"
-   ],
-   "date": "2026-11-16",
-   "time": "18:00:00",
-   "status": "onsale",
-   "venue": "History Toronto",
-   "city": "Toronto",
-   "url": "https://www.ticketmaster.ca/wage-war-emergency-broadcast-tour-toronto-ontario-11-16-2026/event/100064C3D99C6758",
-   "source": "ticketmaster"
-  },
-  {
-   "id": "tm-177Zv0G62er1Iat",
-   "title": "TRIVIUM: CROWN IN THE GRAVE WORLD TOUR",
-   "artists": [
-    "In Flames"
-   ],
-   "lineup": [
-    "Trivium",
-    "In Flames",
-    "Fit for an Autopsy",
-    "Frozen Soul"
-   ],
-   "date": "2026-11-18",
-   "time": "18:30:00",
-   "status": "onsale",
-   "venue": "The Theatre at Great Canadian Toronto",
-   "city": "Toronto",
-   "url": "https://www.ticketmaster.ca/trivium-crown-in-the-grave-world-toronto-ontario-11-18-2026/event/100064F09E2A8269",
-   "source": "ticketmaster"
-  },
-  {
-   "id": "tm-177Zv0G65l9L0CA",
-   "title": "Catch Your Breath - Not Broken Enough Tour",
-   "artists": [
-    "Catch Your Breath"
-   ],
-   "lineup": [
-    "Catch Your Breath",
-    "TX2",
-    "Arankai",
-    "Colorblind"
-   ],
-   "date": "2026-11-19",
-   "time": "18:00:00",
-   "status": "onsale",
-   "venue": "The Danforth Music Hall",
-   "city": "Toronto",
-   "url": "https://www.ticketmaster.ca/catch-your-breath-not-broken-enough-toronto-ontario-11-19-2026/event/100064BAD77E4385",
-   "source": "ticketmaster"
-  },
   {
    "id": "tm-rZ7HnEZ1AfxapK",
    "title": "Kingdom of Giants",
@@ -293,6 +232,25 @@
    "source": "ticketmaster"
   },
   {
+   "id": "tm-rZ7HnEZ1Afo787",
+   "title": "TYR & DYNAZTY",
+   "artists": [
+    "Edge Of Paradise"
+   ],
+   "lineup": [
+    "Týr",
+    "Dominum",
+    "Edge of Paradise"
+   ],
+   "date": "2027-03-14",
+   "time": "18:00:00",
+   "status": "onsale",
+   "venue": "Lee's Palace",
+   "city": "Toronto",
+   "url": "https://www.ticketweb.ca/event/tyr-dynazty-lees-palace-tickets/14444404",
+   "source": "ticketmaster"
+  },
+  {
    "id": "tm-1AvZZ_4GkW50wKX",
    "title": "The Funeral Portrait - A Hex On The Nation",
    "artists": [
@@ -314,6 +272,25 @@
    "venue": "The Opera House",
    "city": "Toronto",
    "url": "https://www.ticketmaster.ca/the-funeral-portrait-a-hex-on-toronto-ontario-03-15-2027/event/1000655F4B9324FE",
+   "source": "ticketmaster"
+  },
+  {
+   "id": "tm-1A8Zk44GkdtVTuR",
+   "title": "The Plot In You: WORLD TOUR: PART 1",
+   "artists": [
+    "The Devil Wears Prada"
+   ],
+   "lineup": [
+    "The Plot In You",
+    "The Devil Wears Prada",
+    "156/Silence"
+   ],
+   "date": "2027-04-07",
+   "time": "18:00:00",
+   "status": "onsale",
+   "venue": "REBEL",
+   "city": "Toronto",
+   "url": "https://www.ticketmaster.ca/the-plot-in-you-world-tour-toronto-ontario-04-07-2027/event/10006555E9D3F36F",
    "source": "ticketmaster"
   },
   {

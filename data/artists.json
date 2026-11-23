@@ -36,16 +36,20 @@
   "tracks": 35
  },
  {
+  "name": "Chaosbay",
+  "tracks": 33
+ },
+ {
   "name": "Ad Infinitum",
   "tracks": 32
  },
  {
-  "name": "Chaosbay",
-  "tracks": 31
- },
- {
   "name": "Hands Like Houses",
   "tracks": 29
+ },
+ {
+  "name": "Wolves At The Gate",
+  "tracks": 28
  },
  {
   "name": "Dark Divine",
@@ -53,10 +57,6 @@
  },
  {
   "name": "Slot",
-  "tracks": 27
- },
- {
-  "name": "Wolves At The Gate",
   "tracks": 27
  },
  {
@@ -84,12 +84,12 @@
   "tracks": 23
  },
  {
-  "name": "Korn",
+  "name": "From Ashes to New",
   "tracks": 22
  },
  {
-  "name": "From Ashes to New",
-  "tracks": 21
+  "name": "Korn",
+  "tracks": 22
  },
  {
   "name": "Of Mice & Men",
@@ -348,6 +348,10 @@
   "tracks": 6
  },
  {
+  "name": "Enemy Inside",
+  "tracks": 6
+ },
+ {
   "name": "Straight Line Stitch",
   "tracks": 6
  },
@@ -372,7 +376,7 @@
   "tracks": 5
  },
  {
-  "name": "Enemy Inside",
+  "name": "ENMY",
   "tracks": 5
  },
  {
@@ -520,6 +524,10 @@
   "tracks": 3
  },
  {
+  "name": "Make Them Suffer",
+  "tracks": 3
+ },
+ {
   "name": "No Resolve",
   "tracks": 3
  },
@@ -632,6 +640,10 @@
   "tracks": 2
  },
  {
+  "name": "Currents",
+  "tracks": 2
+ },
+ {
   "name": "Deadlands",
   "tracks": 2
  },
@@ -697,10 +709,6 @@
  },
  {
   "name": "Lzzy Hale",
-  "tracks": 2
- },
- {
-  "name": "Make Them Suffer",
   "tracks": 2
  },
  {
@@ -1013,10 +1021,6 @@
  },
  {
   "name": "Cristina Scabbia",
-  "tracks": 1
- },
- {
-  "name": "Currents",
   "tracks": 1
  },
  {
@@ -1348,6 +1352,10 @@
   "tracks": 1
  },
  {
+  "name": "Melissa Bonny",
+  "tracks": 1
+ },
+ {
   "name": "Melrose",
   "tracks": 1
  },
@@ -1388,6 +1396,10 @@
   "tracks": 1
  },
  {
+  "name": "NEANT",
+  "tracks": 1
+ },
+ {
   "name": "Neoni",
   "tracks": 1
  },
@@ -1417,6 +1429,10 @@
  },
  {
   "name": "No Consequence",
+  "tracks": 1
+ },
+ {
+  "name": "O.N.I",
   "tracks": 1
  },
  {
@@ -1489,6 +1505,10 @@
  },
  {
   "name": "REDDSTAR",
+  "tracks": 1
+ },
+ {
+  "name": "Resolve",
   "tracks": 1
  },
  {

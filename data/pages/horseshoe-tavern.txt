@@ -15,6 +15,57 @@ Booking
 Contact
 Just Announced
 GET TICKETS
+Meredith Moon and Her Big Band
+January 21, 2027
+GET TICKETS
+GAELN | HIGH FLYER | HYMN VILLA
+January 13, 2027
+GET TICKETS
+The Ramblers | Catfish Gumbo | Country Kaos
+November 30, 2026
+GET TICKETS
+GET TICKETS
+NOT DEAD YET PRESENTS: @
+GET TICKETS
+GET TICKETS
+Rose City Band
+GET TICKETS
+HOOPLA @ HORSESHOE TAVERN
+January 14, 2027
+GET TICKETS
+Uncle Strut
+April 3, 2027
+GET TICKETS
+YOUFORIA ENTERTAINMENT PRESENTS: TONY VEDETTINA | NOAHH HUGHESS | LUCY ROSE CASH | BROOKE HUGHSON
+December 1, 2026
+GET TICKETS
+The Strictly Hip
+February 12, 2027
+GET TICKETS
+GET TICKETS
+The Jack Wharff Band
+GET TICKETS
+Factory & The Dead Souls: SUBSTANCE 40th Anniversary
+January 16, 2027
+GET TICKETS
+Centennial Rocks The Horseshoe
+December 14, 2026
+GET TICKETS
+SKA/PUNK XMAS PARTY!
+December 15, 2026
+GET TICKETS
+Steve Ray Ladson & Elsie
+December 16, 2026
+GET TICKETS
+GET TICKETS
+Kaitlin Butts - The Hello, Honky Tonk Tour
+GET TICKETS
+Generator Party | Horshack
+December 28, 2026
+GET TICKETS
+The Luminous Veils
+January 2, 2027
+GET TICKETS
 The Sadies NYE with Greg Keelor & Jim Bowskill
 December 31, 2026
 GET TICKETS
@@ -46,85 +97,7 @@ March 7, 2027
 GET TICKETS
 GET TICKETS
 Cloud Nothings
-GET TICKETS
-Bonfire Ball 2 - NIGHT 2
-December 12, 2026
-GET TICKETS
-Bonfire Ball 2 - NIGHT 1
-December 11, 2026
-GET TICKETS
-Dom Flemons
-January 17, 2027
-GET TICKETS
-Bryan Andrews with Lou Ridley
-April 2, 2027
-GET TICKETS
-Gäry | Odd Marshall | Nate Mills And The Consenting Adult
-November 17, 2026
 Upcoming Shows
-The Garrett Boys
-Monday, November 16, 2026
-Door Time:
-8:00 pm
-19+
-$18.50
-Tickets
-SOLD OUT
-FREE
-Gäry | Odd Marshall | Nate Mills And The Consenting Adult
-Tuesday, November 17, 2026
-Door Time:
-8:00 pm
-19+
-FREE
-Tickets
-SOLD OUT
-FREE
-Horsebath
-Wednesday, November 18, 2026
-Door Time:
-8:30 pm
-19+
-$15.50
-Tickets
-SOLD OUT
-FREE
-Kaleta & Super Yamba Band
-Thursday, November 19, 2026
-Door Time:
-8:30 pm
-19+
-$22.50
-Tickets
-SOLD OUT
-FREE
-Charlie Parr
-Friday, November 20, 2026
-Door Time:
-7:30 pm
-19+
-$23.50
-Tickets
-SOLD OUT
-FREE
-The Messenger Birds
-Saturday, November 21, 2026
-Door Time:
-8:00 pm
-19+
-$15.50
-Tickets
-SOLD OUT
-FREE
-Jermaine Holmes
-Sunday, November 22, 2026
-Door Time:
-8:00 pm
-19+
-$19.50
-Tickets
-SOLD OUT
-FREE
 The Boo Radley Project
 Wednesday, November 25, 2026
 Door Time:
@@ -157,6 +130,24 @@ Door Time:
 8:30 pm
 19+
 $25.00
+Tickets
+SOLD OUT
+FREE
+The Ramblers | Catfish Gumbo | Country Kaos
+Monday, November 30, 2026
+Door Time:
+8:00 pm
+19+
+FREE
+Tickets
+SOLD OUT
+FREE
+YOUFORIA ENTERTAINMENT PRESENTS: TONY VEDETTINA | NOAHH HUGHESS | LUCY ROSE CASH | BROOKE HUGHSON
+Tuesday, December 1, 2026
+Door Time:
+8:00 pm
+19+
+FREE
 Tickets
 SOLD OUT
 FREE
@@ -232,6 +223,33 @@ $25.50
 Tickets
 SOLD OUT
 FREE
+Centennial Rocks The Horseshoe
+Monday, December 14, 2026
+Door Time:
+8:00 pm
+19+
+$
+Tickets
+SOLD OUT
+FREE
+SKA/PUNK XMAS PARTY!
+Tuesday, December 15, 2026
+Door Time:
+8:00 pm
+19+
+$
+Tickets
+SOLD OUT
+FREE
+Steve Ray Ladson & Elsie
+Wednesday, December 16, 2026
+Door Time:
+8:00 pm
+19+
+$15.00
+Tickets
+SOLD OUT
+FREE
 The Bad Plus
 Thursday, December 17, 2026
 Door Time:
@@ -276,6 +294,15 @@ $22.50
 Tickets
 SOLD OUT
 FREE
+Generator Party | Horshack
+Monday, December 28, 2026
+Door Time:
+8:00 pm
+19+
+$20.00
+Tickets
+SOLD OUT
+FREE
 The Sadies NYE with Greg Keelor & Jim Bowskill
 Thursday, December 31, 2026
 Door Time:
@@ -285,8 +312,44 @@ $37.50
 Tickets
 SOLD OUT
 FREE
+The Luminous Veils
+Saturday, January 2, 2027
+Door Time:
+8:00 pm
+19+
+$15.00
+Tickets
+SOLD OUT
+FREE
 The Queen is Dead - 10 YEARS & STILL ILL
 Saturday, January 9, 2027
+Door Time:
+8:30 pm
+19+
+$20.00
+Tickets
+SOLD OUT
+FREE
+GAELN | HIGH FLYER | HYMN VILLA
+Wednesday, January 13, 2027
+Door Time:
+8:00 pm
+19+
+$15.00
+Tickets
+SOLD OUT
+FREE
+HOOPLA @ HORSESHOE TAVERN
+Thursday, January 14, 2027
+Door Time:
+8:30 pm
+19+
+$15.00
+Tickets
+SOLD OUT
+FREE
+Factory & The Dead Souls: SUBSTANCE 40th Anniversary
+Saturday, January 16, 2027
 Door Time:
 8:30 pm
 19+
@@ -300,6 +363,23 @@ Door Time:
 8:00 pm
 19+
 $19.50
+Tickets
+SOLD OUT
+FREE
+NOT DEAD YET PRESENTS: @
+Tuesday, January 19, 2027
+Door Time:
+19+
+$35.38
+Tickets
+SOLD OUT
+FREE
+Meredith Moon and Her Big Band
+Thursday, January 21, 2027
+Door Time:
+8:00 pm
+19+
+$15.00
 Tickets
 SOLD OUT
 FREE
@@ -343,6 +423,15 @@ Door Time:
 8:00 pm
 19+
 $18.50
+Tickets
+SOLD OUT
+FREE
+The Strictly Hip
+Friday, February 12, 2027
+Door Time:
+8:00 pm
+19+
+$20.00
 Tickets
 SOLD OUT
 FREE
@@ -399,12 +488,28 @@ $19.50
 Tickets
 SOLD OUT
 FREE
+The Jack Wharff Band
+Thursday, February 25, 2027
+Door Time:
+19+
+$30.00
+Tickets
+SOLD OUT
+FREE
 Bess Atwell
 Thursday, March 4, 2027
 Door Time:
 7:00 pm
 19+
 $25.00
+Tickets
+SOLD OUT
+FREE
+Kaitlin Butts - The Hello, Honky Tonk Tour
+Saturday, March 6, 2027
+Door Time:
+19+
+$30.00
 Tickets
 SOLD OUT
 FREE
@@ -426,6 +531,14 @@ $24.50
 Tickets
 SOLD OUT
 FREE
+Rose City Band
+Saturday, March 13, 2027
+Door Time:
+19+
+$25.00
+Tickets
+SOLD OUT
+FREE
 Radio Free Alice
 Friday, March 19, 2027
 Door Time:
@@ -440,6 +553,15 @@ Door Time:
 8:30 pm
 19+
 $27.50
+Tickets
+SOLD OUT
+FREE
+Uncle Strut
+Saturday, April 3, 2027
+Door Time:
+8:30 pm
+19+
+$19.50
 Tickets
 SOLD OUT
 FREE
@@ -472,46 +594,46 @@ SOLD OUT
 FREE
 View Full Calendar
 Just Announced
-The Sadies NYE with Greg Keelor & Jim Bowskill
-December 31, 2026
+Meredith Moon and Her Big Band
+January 21, 2027
 Learn More!
-The Friendly Frogs Freak Show
-December 9, 2026
+GAELN | HIGH FLYER | HYMN VILLA
+January 13, 2027
 Learn More!
-The Band Feel
-February 11, 2027
+The Ramblers | Catfish Gumbo | Country Kaos
+November 30, 2026
 Learn More!
-Alan Cross - A Year in Review
+NOT DEAD YET PRESENTS: @
 Learn More!
-Radio Free Alice
+Rose City Band
 Learn More!
-Booker T. Jones - Late Show
-June 24, 2027
+HOOPLA @ HORSESHOE TAVERN
+January 14, 2027
 Learn More!
-Booker T. Jones - Early Show
-June 24, 2027
+Uncle Strut
+April 3, 2027
 Learn More!
-The Boo Radley Project
+YOUFORIA ENTERTAINMENT PRESENTS: TONY VEDETTINA | NOAHH HUGHESS | LUCY ROSE CASH | BROOKE HUGHSON
+December 1, 2026
 Learn More!
-NFTC Presents: Lauren Carson | Jenna Rose | Paul Jones & The Gold Tones
-January 27, 2027
+The Strictly Hip
+February 12, 2027
 Learn More!
-Booze and Glory
-March 7, 2027
+The Jack Wharff Band
 Learn More!
-Cloud Nothings
+Factory & The Dead Souls: SUBSTANCE 40th Anniversary
+January 16, 2027
 Learn More!
-Bonfire Ball 2 - NIGHT 2
-December 12, 2026
+Centennial Rocks The Horseshoe
+December 14, 2026
 Learn More!
-Bonfire Ball 2 - NIGHT 1
-December 11, 2026
+SKA/PUNK XMAS PARTY!
+December 15, 2026
 Learn More!
-Dom Flemons
-January 17, 2027
+Steve Ray Ladson & Elsie
+December 16, 2026
 Learn More!
-Bryan Andrews with Lou Ridley
-April 2, 2027
+Kaitlin Butts - The Hello, Honky Tonk Tour
 Learn More!
 Local Ticket Outlets
 Rotate THis
