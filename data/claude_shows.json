@@ -3,7 +3,9 @@
     "id": "claude-holy-wars-2026-11-28",
     "title": "Kingdom Of Giants w/ Deadlands, Holy Wars, Night Rider & Napoleon",
     "artists": [
+      "Deadlands",
       "Holy Wars",
+      "Kingdom Of Giants",
       "Night Rider"
     ],
     "date": "2026-11-28",
@@ -13,5 +15,19 @@
     "url": "https://www.ticketweb.ca/event/kingdom-of-giants-lees-palace-tickets/14889593",
     "source": "claude",
     "found": "2026-10-06"
+  },
+  {
+    "id": "claude-underoath-2026-11-27",
+    "title": "Underoath - Define the Great Line 20th Anniversary Tour w/ August Burns Red, Atreyu & Emery",
+    "artists": [
+      "Underoath"
+    ],
+    "date": "2026-11-27",
+    "time": "18:30:00",
+    "venue": "The Theatre at Great Canadian Toronto",
+    "city": "Toronto",
+    "url": "https://www.livenation.com/event/1AvZZ_8GkBlKihc/underoath-define-the-great-line-20th-anniversary-tour",
+    "source": "claude",
+    "found": "2026-11-24"
   }
 ]
